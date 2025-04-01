@@ -50,12 +50,16 @@ Get your AWS credentials from the AWS console. You should create a new IAM user 
 - AWSGlueServiceRole: This role is assumed by the Glue job to access required AWS services. It should include permissions to run Glue jobs.
 - AWSGlueConsoleFullAccess: For full access to the Glue console (if you’re managing jobs interactively).
 - AmazonRedshiftFullAccess (or RedshiftFullAccess): To permit operations on Redshift, such as creating clusters, loading data via the COPY command, and running queries.
+- AWSKeyManagementServicePowerUser : This policy allows Glue to use KMS keys for encryption and decryption.
+- SecretsManagerReadWrite : AWS Secrets Manager is used to store database credentials, this policy allows Glue to read/write secrets.
 
 When your Glue job is submitted, it will assume the specified Glue service role which should have these policies attached. This setup lets the job read from S3 and push data to Redshift without additional permissions.
 
 However, keep these points in mind:
-- Ensure that the Glue service role has a trust relationship that allows Glue to assume the role.
+- Create a Redshift cluster or serverless instance in the same VPC as your Glue job to ensure network connectivity.
 - Validate that your S3 bucket policies and Redshift cluster security groups (or VPC settings) allow access from your Glue job.
+- To create a Glue connection a s3 endpoint should be created in the VPC where the Redshift cluster/serverless is located. This is required to allow Glue to access the S3 bucket.
+
 
 ## Data Warehouse Design
 <img src="docs/files/ER-diagram.png" alt="ER Diagram"></img>
