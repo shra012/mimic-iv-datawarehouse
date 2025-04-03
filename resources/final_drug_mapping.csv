@@ -1,0 +1,599 @@
+drug,medicine_name,package_size,cost
+fentanyl citrate,abstral 100mcg 30tab sublingual,30.0,217.73622632646834
+lorazepam,notensyl syrup 110ml,110.0,70.25377842310668
+midazolam,omr-igg-am 5% sol for inj 100ml,100.0,190.97474575035665
+insulin pump (self administering medication),,,128.24581936838436
+propofol,,,287.943986132038
+insulin,apidra optiset/solostar prefilled pen 5x3ml,15.0,186.0848369244486
+albuterol 0.083% neb soln,,,204.7492575460329
+calcium gluconate sliding scale (critical care-ionized calcium),,,179.63378024077522
+vancomycin,vancomycin merck 1g/vial,1.0,71.8684354988814
+venetoclax,,,365.8882054712981
+ruxolitinib,jakavi 5mg 56tab,56.0,247.9126739387495
+lenalidomide (revlimide)15mg,,,359.54760844406104
+bag,aggrastat 0.05mg/ml bag 250ml,250.0,381.621136351375
+multivitamins,,,208.805786803041
+tuberculin protein,,,259.8927159710714
+syringe,actemra 162 mg s.c. 4 syringe prefilled,4.0,266.11989217591326
+click change <--- to choose a base solution,,,301.4575111079399
+acetaminophen-caff-butalbital,,,257.269311643696
+neutra-phos,,,273.0170660545983
+oxycodone--acetaminophen (5mg-325mg),,,173.76889346972627
+oxycodone-acetaminophen,,,197.7347414348421
+oxycodone-acetaminophen (5mg-325mg),,,325.5698039276904
+tiotropium bromide,resprim susp 100ml,100.0,15.380330962206232
+vial,abelcet 5mg/ml vial 20ml (100mg/20ml),1.0,115.9178889468396
+alprazolam,xanax xr 0.50mg 30 sr tab,30.0,22.644167469416857
+zolpidem tartrate,ambien cr 12.5mg 28tab,28.0,185.86385318255427
+amlodipine,amlodipine teva 10mg 20tab,20.0,15.227549441456796
+ampicillin sodium,,,378.25598806692426
+apixaban,eliquis 2.5mg 60 f.c.tab,60.0,368.2542689925134
+aspirin,aggrenox 60 caps,60.0,70.96531779700757
+sucralfate,,,190.21575656666573
+clonidine,,,314.8294157592569
+chlorpheniramine maleate,agispor shampo 100ml,100.0,256.0714728830358
+clonazepam,,,262.9789528321691
+colchicine,colchicine 0.5mg 30tab,30.0,28.852198941707616
+dexamethasone,bemfola 600 iu/ml 1 prefilled pen 0.75 ml(450iu),1.0,141.25245693037692
+diazepam,koate dvi 1000iu/vial,1.0,230.3009397518962
+donepezil,aricept 10mg 28tab,28.0,138.32909492611884
+enoxaparin sodium,,,236.40302386711238
+finasteride,finasteride teva 1mg 100tab,100.0,217.23501188355806
+folic acid,engerix b 20mcg/ml adult vial,1.0,93.18572707696777
+glutamine,,,230.93302531189636
+glyburide,,,112.65434314270269
+hydromorphone (dilaudid),,,108.82340270558433
+isosorbide dinitrate,,,307.96145818000684
+lidocaine jelly 2% (urojet),,,313.9413719907795
+lisinopril,priorix  vial 0.5ml,1.0,86.59166172383667
+loperamide,,,261.27416068985883
+methadone,,,171.27833359539153
+metolazone,zaroxolyn 5mg 100tab,100.0,226.6702358524151
+midodrine,,,101.23552415562423
+multivitamins w/minerals,,,174.75292028419733
+sodium chloride,abbosynagis 50mg pul for inj+solv,1.0,221.3042343840709
+nephrocaps,,,223.95949165475108
+nicotine polacrilex,cerazette 0.075mg 1x28tab,28.0,22.615635850463395
+olanzapine,olanzapine  teva 10mg 28 f.c.tab,28.0,145.72875965470075
+ondansetron,ondansetron inovamed 4 mg 10 f.c.tab,10.0,134.05137033302486
+oxycodone (immediate release),,,381.72061380583034
+perphenazine,favoxil 50mg 60tab,60.0,58.92580763861419
+phytonadione,konakion mm 10mg/ml,5.0,22.12643078840733
+prazosin,,,284.57388012309417
+prednisone,prednisone 1mg 100tab,100.0,24.71671709339619
+prochlorperazine,,,266.27772793422736
+ramelteon,,,324.13557297904316
+sarna lotion,,,202.162030185722
+tacrolimus,prograf 0.5 mg 50 capsules,50.0,215.05257336191832
+tizanidine,,,274.1220640872732
+vitamin b complex,,,350.34809970646245
+warfarin,coumadin 1mg 30tab,30.0,6.28977936929226
+acetazolamide,,,158.67790967761755
+nifedipine cr,osmo adalat 20mg 30 sr tab,30.0,17.667163151972296
+albumin 25% (12.5g / 50ml),,,327.0852189456121
+amitriptyline,favoxil 50mg 60tab,60.0,58.92580763861419
+atenolol,attent 10mg 100tab,100.0,165.6630095757597
+atorvastatin,atorvastatin teva 80mg 30tab,30.0,69.36019485588312
+aztreonam,cayston  75mg/vial 84 vials,84.0,398.09513277438884
+baclofen,baclofen sintetica 2 mg/ ml,1.0,240.3911161825061
+sulfameth/trimethoprim ds,,,119.86815690097397
+sulfameth/trimethoprim ss,,,284.85276150259415
+bupropion,wellbutrin xr 150mg 30 tablets,30.0,116.74908921766875
+buspirone,,,227.15962158398085
+calcitriol,,,252.20390730962922
+calcium gluconate,fludecate 1ml 5amp,5.0,84.97709688305854
+captopril,fusid 20mg/2cc 5amp,5.0,15.435926433813572
+cefazolin,cefazolin sandoz 0.5gr 100vial,100.0,264.0903307829218
+cefepime,,,376.5461846613697
+ceftriaxone,pan-ceftriaxone 1 gm 10 vial,10.0,257.3034655621648
+ceftazidime,ceftazidime teva 1gr/vial,1.0,37.33763065046382
+cetirizine,lidocadren teva 2% 50vial(1.8ml),50.0,78.5330003694266
+chlorthalidone,attent 10mg 100tab,100.0,302.42419951360847
+cinacalcet,cinacalcet teva 30mg 30tab,30.0,341.08704977579936
+citalopram,citalopram  20 mg 30 tablets,30.0,32.71839359989643
+clonidine patch 0.2 mg/24 hr,,,233.65225239095622
+clonidine patch 0.3 mg/24 hr,,,290.00171639906546
+clopidogrel,plavix 300mg 30tab,30.0,273.4509274698794
+clotrimazole,clotrisone cream 15gr,15.0,14.404460321647525
+losartan potassium,losartan 50mg 30tab,30.0,27.45767599285841
+cyanocobalamin,ebetaxel 6 mg/ml vial 150mg/25ml,1.0,343.57967830265034
+cyclobenzaprine,,,275.7956050531042
+cytarabine,,,282.1413652306798
+diazepam - ciwa protocol,,,186.3657181089154
+digoxin,digoxin kern pharma 0.25mg 50tab,50.0,19.56659958230138
+diltiazem,adizem cd 120mg 30cap,30.0,28.804111943471433
+diphenhydramine,,,124.11152521406689
+dronabinol,zincol 220mg 30tab,30.0,326.4890905744511
+*nf* ertapenem sodium,invanz im/iv 1g/vial 10vial,10.0,360.36858106310564
+escitalopram oxalate,escitalopram teva 10mg 30tab,30.0,39.878547637263544
+ezetimibe,,,347.7465182501136
+febuxostat,,,155.06990478605613
+fenofibrate,,,144.18899586207468
+fexofenadine,,,157.67209707829656
+furosemide,furosemide fresenius 20mg/2ml 10 vials,10.0,30.871852867627144
+ziprasidone hydrochloride,geodon 20mg 60caps,60.0,149.86821950286628
+glipizide,,,374.0923383443942
+glucagon,glucagen kit 1mg,1.0,106.02812689091134
+polyethylene glycol,lercapress 20 mg 30 fc tab,30.0,47.96197204076528
+golytely,,,191.7399567764729
+guaifenesin,,,166.28665034947105
+hydromorphone,palladone 10mg/2ml 5amp,5.0,102.00850475348938
+haloperidol,haldol 5ampx5mg/ml,5.0,18.289088329160215
+hydrocortisone na succ.,dermacombin oint 15g,15.0,87.710743282789
+hydrochlorothiazide,aerius 5mg 30tab,30.0,30.22267839143872
+heparin,eprex/protecs 10000 iu/1ml 6 syringes,6.0,372.62587487200375
+heparin (crrt machine priming),,,137.152595386524
+hydroxyzine,stamaril 1vial,1.0,181.42019334554672
+hydralazine,bekunis 45 dragees,45.0,29.64563441260457
+23.4% sodium chloride,abbosynagis 50mg pul for inj+solv,1.0,153.31408241823715
+isosorbide mononitrate (extended release),,,323.66713046391976
+isosorbide mononitrate,,,159.24471875845924
+insulin human regular,,,121.18726993484769
+ipratropium-albuterol neb,,,161.6502134062011
+ipratropium bromide neb,atrovent inhaler 20mcg 200doses,200.0,32.9235647923708
+potassium chloride,abbosynagis 50mg pul for inj+solv,1.0,210.78526719037515
+potassium chloride replacement (critical care and oncology),,,353.1547988970148
+potassium chloride (powder),abbosynagis 50mg pul for inj+solv,1.0,231.10305307446117
+levofloxacin,levofloxacin teva 5mg/ml 10 bagx100ml,10.0,158.7363661113345
+levothyroxine sodium,euthyrox 100mcg 100tab,100.0,30.334881387323147
+lidocaine 5% patch,,,237.19814897190332
+loratadine,clarinase repetabs 14,14.0,34.89513172005415
+lactated ringers,,,159.31185651982267
+lr,,,149.39468268092045
+magnesium sulfate,duotrav 2.5ml ophthalmic solution,2.5,101.08301062979712
+meropenem,meropenem teva 500 mg/vial 10vial/20ml,10.0,331.2941328214801
+metoclopramide,ketozol shampoo 100ml,100.0,47.013055275571354
+metoprolol tartrate,,,157.4289194142064
+miconazole 2% cream,,,291.3818449908512
+miconazole powder 2%,,,122.4053259707773
+mirtazapine,dermacombin cream 15g,15.0,87.710743282789
+milk of magnesia,,,197.084827817289
+morphine sulfate (oral solution) 2 mg/ml,morphine hcl 20mg/ml  5amp,5.0,23.347039093635683
+morphine sulfate ir,morphine hcl 20mg/ml  5amp,5.0,23.347039093635683
+morphine sulfate,morphine hcl 20mg/ml  5amp,5.0,23.347039093635683
+morphine sr (ms contin),,,338.1738483407585
+multivitamin iv,,,136.37283093772797
+nystatin-triamcinolone cream,,,167.10869830395023
+naloxone,onbrez breezhaler 150mcg inhal 30 hard caps,30.0,172.46823117390275
+nicotine patch,,,151.31169641789083
+nifedipine,osmo adalat 20mg 30 sr tab,30.0,17.667163151972296
+0.9% sodium chloride,abbosynagis 50mg pul for inj+solv,1.0,255.12964660120005
+nitroglycerin sl,miacalcic 200ui/dose nasal spray 2ml,2.0,81.60662720918664
+nystatin oral suspension,,,130.60761224572244
+omeprazole,neulastim 6mg/0.6ml pre-filed syr,1.0,294.084271476448
+oseltamivir,emily 21tab,21.0,38.66290832185293
+oxycodone sr (oxycontin),,,282.6914831277209
+pantoprazole,,,198.6952234252962
+phenobarbital alcohol withdrawal dose taper (days 2-7),,,342.91765999278306
+famotidine,famotidine-t 40mg30tab,30.0,47.793667546938664
+prasugrel,effient 10mg 28 fc tab,28.0,273.5337049668432
+pravastatin,,,282.38630873463507
+pregabalin,lyclear crm 5% 30gr,30.0,46.61072739032865
+propranolol,benefix 2000iu/vial i.v 1 vial,1.0,361.78866015643734
+fluoxetine,fosalan once-weekly 70mg 4tab,4.0,45.1325330645485
+pseudoephedrine,candor 16mg 28tab,28.0,34.720095046474455
+psyllium wafer,,,347.2117845928339
+quetiapine fumarate,quetiapine teva 100mg 30tab,30.0,53.660281331752536
+riluzole,rilutek 50mg 56tab,56.0,278.65663587557793
+risperidone,risperdal 1mg 20tab,20.0,20.32797705437422
+rivaroxaban,xarelto 10mg  30 film coated tablets,30.0,374.58499251030383
+rosuvastatin calcium,crestor 10mg 28tab,28.0,92.85227065419888
+senna,,,357.56738181419064
+sertraline,sertraline teva 100mg 30tab,30.0,45.35565673636437
+simethicone,,,279.6501306982758
+simvastatin,simvastatin-teva 10mg 30tab,30.0,15.777344121290447
+sodium chloride 3% inhalation soln,,,333.4087815985844
+sotalol,,,227.5293377705233
+spironolactone,aldactone 25mg 20t,20.0,11.460734579622748
+sterile water,agispor onychoset oint 10gr (with water proof plasters),10.0,124.26641499193488
+tamsulosin,tamsulosin inovamed 0.4mg 30 p.r.tab,30.0,62.590352804199455
+androgel,androgel 50mg 30sachx5g,30.0,249.92515333279968
+ticagrelor,brilinta 60 mg 56 tab,56.0,354.4127366002179
+topiramate (topamax),,,151.8424662083935
+metoprolol succinate xl,reminyl p.r. caps 8mg 28caps,28.0,94.24022990328884
+torsemide,,,110.151575758762
+tramadol (ultram),,,134.90362745517805
+tramadol,,,161.80577772369514
+trazodone,,,144.14133720272378
+ampicillin-sulbactam,,,203.936079011505
+valsartan,co-diovan 160/12.5mg fct 28tab,28.0,39.03766632810689
+verapamil,,,292.5872852728184
+vitamin b complex w/c,,,343.56151901176105
+voriconazole,vfend 200mg 14tab,14.0,386.7339824967454
+acetaminophen,acrose 50mg 30tab,30.0,19.43195598724008
+acyclovir,acyclo-v 400mg 30tab,30.0,33.67051616497278
+albumin 25%,,,365.41971518643504
+albuterol inhaler,,,267.6757802791629
+allopurinol,,,105.57174700709008
+amantadine,dekinet 2mg 30tab,30.0,15.003143449687958
+amiodarone,,,141.64227608491007
+aspirin ec,aggrenox 60 caps,60.0,70.96531779700757
+aspirin (buffered),,,171.8674295633239
+ascorbic acid,engerix b 20mcg/ml adult vial,1.0,93.18572707696777
+amoxicillin-clavulanic acid,,,202.18981606156393
+belladonna & opium (16.2/30mg),,,304.75254959137186
+benzonatate,,,327.99616571042685
+clarithromycin,clarithromycin 250mg 14tab,14.0,31.825257752656455
+bisacodyl,,,392.6294712080775
+bupivacaine 0.1%,,,197.1445384012159
+bupropion (sustained release),,,279.5100565791812
+calcium carbonate,,,101.7537419579635
+calcium acetate,apo-go 10mg/ml 5ampx2ml,5.0,290.89708932995796
+caphosol,,,206.07557197544324
+carvedilol,betacorten g cr 15gr,15.0,53.554489935632944
+cephalexin,eklira genuair inhaler 60 doses (322mcg/dose),60.0,189.522443048358
+chlorhexidine gluconate 0.12% oral rinse,bricalin resp 15ml,15.0,87.710743282789
+ciprofloxacin hcl,ciloxan 0.3% eye drops 5ml,5.0,19.375053039327263
+cosyntropin,,,226.97017236811652
+5% dextrose (excel bag),,,191.4430437162457
+dabigatran etexilate,pradaxa 110mg 10caps,10.0,71.92681791173996
+darunavir,prezista 150 mg 240 f.c.tab,240.0,344.43215347983437
+dextrose 50%,abbosynagis 50mg pul for inj+solv,1.0,352.9325941377029
+digox,,,321.2893404205962
+divalproex (delayed release),,,105.43337876321155
+dobutamine,,,175.51779587224777
+docusate sodium,,,318.52442609664064
+docusate sodium (liquid),,,173.81343977103657
+docusate,,,340.58719837721975
+dofetilide,,,247.4720184228476
+opium tincture,,,340.1387174490145
+epinephrine,betnovate topical scalp appl sol 30ml,30.0,15.642700526229142
+erythromycin,aceril 25mg 90tab,90.0,36.728849252793786
+esmolol,,,277.5944495409704
+esomeprazole sodium,,,135.4659498557677
+fentanyl patch,,,380.8729358527247
+ferrous sulfate,,,231.58754305334352
+fleet enema,fleet enema 250 ml,250.0,281.61547718051685
+fleet enema (mineral oil),,,271.0006283022611
+fluconazole,diflucan susp 50mg/5ml 35ml,35.0,64.26471634278417
+fludrocortisone acetate,,,341.74135449079864
+gabapentin,gabapentin inovamed 300 mg 100caps,100.0,103.93957868751885
+gastroview (diatrizoate meglumine & sodium),,,123.89357702538236
+gemfibrozil,,,398.46870057640604
+gentamicin 0.3% ophth. soln,,,300.12650110735444
+glipizide xl,,,374.1685618054001
+guaifenesin-dextromethorphan,,,162.20535560998874
+hydroxyurea,,,309.7688676411172
+ibuprofen,binocrit 10000 i.u/0.1 ml 6 syringe prefilled,6.0,211.6190506872367
+irbesartan,,,301.23978580797046
+avapro,,,241.3170740157542
+iso-osmotic sodium chloride,,,299.5191020766642
+sodium polystyrene sulfonate,kayexalate 450gr powder for susp.,1.0,142.7786047629118
+ketorolac,ixiaro vaccine 6mcg/0.5ml prefilled syr,1.0,316.30600947456276
+labetalol,prandase 100mg 30tab,30.0,28.00586777275086
+lactulose,,,134.33697597222405
+lamotrigine,immucyst 81mg vial,1.0,375.72355309427763
+levetiracetam,eviplera 30 f.c.tab,30.0,301.02248501394814
+hyoscyamine,,,238.1492472520989
+lidocaine viscous 2%,,,108.56272481195509
+lidocaine jelly 2% (glydo),,,102.31282784239343
+lidocaine 1%,betnovate topical scalp appl sol 30ml,30.0,15.642700526229142
+lidocaine 2%,betnovate topical scalp appl sol 30ml,30.0,15.642700526229142
+linezolid,,,172.79465981124292
+aluminum-magnesium hydrox.-simethicone,,,351.024720887342
+nitrofurantoin monohyd (macrobid),,,150.29475565334158
+magnesium citrate,,,181.8158647514507
+magnesium oxide,,,209.4206096112724
+meclizine,,,392.7203135854616
+meperidine,,,346.0497292578121
+psyllium,,,171.33823078556878
+psyllium powder,,,347.57098490654374
+metamucil fiber singles,,,379.8273304948837
+methocarbamol,spasmolyt 20mg 30tab,30.0,27.140301804499632
+metformin (glucophage),,,283.93768599828337
+methylnaltrexone,,,237.81719593968324
+methylprednisolone sodium succ,,,298.4332314145438
+metronidazole (flagyl),noritate cream 1% 30g,30.0,326.4890905744511
+metronidazole,betnovate cream 15g,15.0,8.815949676632881
+5% dextrose,abbosynagis 50mg pul for inj+solv,1.0,102.4153372781561
+moviprep,moviprep 4 sachets,4.0,117.65299374451374
+sodium bicarbonate,berinert 500u/vial powder for sol for inj/inf,1.0,154.74380006675017
+naproxen,mesna-cell 400mg/4ml 10ampoules,10.0,131.12438144038617
+neomycin-polymyxin-bacitracin,,,395.0304793273681
+d5w,,,269.9205600659344
+iohexol 240,,,391.99151407411597
+oxycodone liquid,,,169.16106649814736
+phenazopyridine,,,284.73897697611045
+phosphorus,,,373.53493108709165
+pneumococcal 23-valent polysaccharide vaccine,,,252.9346653993217
+pneumococcal vac polyvalent,,,242.3839150094201
+protamine sulfate,,,181.351199959545
+quinidine gluconate e.r.,,,119.26117698678298
+raltegravir,isentress 400mg 60tab,60.0,329.66064290278064
+ranitidine,asenta 5mg 28tab,28.0,119.06046625288796
+sevelamer carbonate,renvela 2.4g powder 60sachet,60.0,117.70589408517807
+rifaximin,,,395.5294223267889
+ritonavir,kaletra 100mg/25mg  60 f.c tab,60.0,204.66338560981262
+scopolamine patch,,,372.7416339744397
+januvia,januvia 100mg 28tab,28.0,200.15949765819312
+sulfasalazine_,,,340.90484883627437
+insulin syringe u-500,,,145.18130776166583
+thiamine,engerix b 20mcg/ml adult vial,1.0,93.18572707696777
+diltiazem extended-release,,,169.98712429083312
+tigecycline,,,175.714528609684
+trimethoprim,cipralex 20mg 28tab,28.0,56.79715651669265
+ursodiol,ceforal frte susp 250,60.0,19.080920900115967
+valproic acid,,,172.0024244566919
+hydrocodone-acetaminophen (5mg-500mg),,,375.92518407090245
+vitamin e,engerix b 20mcg/ml adult vial,1.0,93.18572707696777
+zinc sulfate,,,294.55207558341687
+acetaminophen (liquid),,,181.30282197098728
+soln,,,317.22159581879635
+albumin 5% (12.5g / 250ml),,,165.61433466497348
+albumin 5% (25g / 500ml),,,275.59830766710996
+alteplase (catheter clearance),,,283.58928519794813
+aluminum hydroxide suspension,,,313.3794692233607
+azithromycin,azithromycin teva 200mg/5ml 15ml,15.0,23.492902988285422
+mupirocin nasal ointment 2%,,,222.61348528062703
+cepacol (menthol),,,252.36656047473468
+cepacol (sore throat lozenge),,,282.2623998836319
+cepastat (phenol) lozenge,,,253.0734817599426
+clotrimazole cream,clotrisone cream 15gr,15.0,14.404460321647525
+estrogens conjugated,,,355.9595142605891
+d10w,,,119.05583792828793
+dexmedetomidine,,,255.92177861031033
+dextran 40 10% in ns,,,120.80035449650232
+dopamine,,,123.2951214113078
+doxycycline hyclate,diclectin 100 delayed release tab,100.0,301.7645715383796
+vitamin d,amoxiclav teva 875mg 14tab,14.0,37.50785862421989
+hydrocerin,,,357.69887468423246
+ferrous sulfate (liquid),,,385.47133480460985
+ferrous gluconate,,,157.22956383441146
+fish oil (omega 3),,,242.5104277649344
+fosphenytoin,,,162.0000740738886
+gentamicin,aflumycin cream 20gr,20.0,16.927691979095936
+insulin glargine  (cvicu protocol),,,312.29196888526394
+guaifenesin er,,,171.52605159741333
+hemorrhoidal suppository,,,183.3360525477137
+humalog,humalog cart 3mlx5,15.0,176.8140497644991
+lansoprazole oral disintegrating tab,,,204.4292567616929
+lidocaine,betnovate topical scalp appl sol 30ml,30.0,15.642700526229142
+lidocaine 1% (for picc/midline insertions),,,339.64775718409
+micafungin,mycamine 100 mg vial,1.0,372.9595121346072
+miconazole nitrate vag cream 2%,mononit 40mg 30tab,30.0,16.7038202873075
+milrinone,orsinon 500mg 30tab,30.0,64.79975732315899
+nicardipine iv,,,319.7902418287487
+nitroglycerin,miacalcic 200ui/dose nasal spray 2ml,2.0,81.60662720918664
+nystatin,aclasta 5mg/100ml 1bottle,1.0,254.94801191635574
+octreotide acetate,sandostatin 0.05mg/ml,5.0,97.09026731375008
+olanzapine (disintegrating tablet),,,314.4310803500457
+ondansetron odt,ondansetron inovamed 4 mg 10 f.c.tab,10.0,134.05137033302486
+pancrelipase 5000,creon  25000 u (300mg)100caps,100.0,164.355743971467
+phenytoin,dilantin susp 237ml,237.0,346.3926923687894
+phenytoin sodium (iv),dilantin susp 237ml,237.0,222.64824447763198
+propranolol la,benefix 2000iu/vial i.v 1 vial,1.0,138.28867821136274
+racepinephrine,,,168.3285994528664
+ranitidine (liquid),,,268.7629859477712
+vancomycin oral liquid,,,288.89453302012
+vitamin d3,amoxiclav teva 875mg 14tab,14.0,37.50785862421989
+filgrastim-sndz,,,360.4775969724561
+piperacillin-tazobactam,,,339.0128054004779
+acetaminophen iv,acrose 50mg 30tab,30.0,19.43195598724008
+brimonidine,alphagan p 0.15% 5ml,5.0,209.0269000329387
+orthopedic solution,,,133.18849592993234
+bupropion xl (once daily),,,212.1017905729282
+yellow cadd cassette,,,375.7610489450162
+calcium chloride,bedodeka 1mg/ml 100ampx1ml,100.0,311.9857535564303
+ciprofloxacin iv,ciloxan 0.3% eye drops 5ml,5.0,19.375053039327263
+amino acids 4.25%-dextrose 5%,,,187.79924868272448
+clindamycin,duac topical gel 25g,25.0,22.616784595421255
+divalproex (extended release),,,346.70276486193137
+sacubitril-valsartan (24mg-26mg),,,145.24701398497817
+fentanyl pca,abstral 100mcg 30tab sublingual,30.0,114.1277860929466
+heparin flush (10 units/ml),,,267.2477336553623
+ns,,,130.83073361894407
+heparin sodium,eprex/protecs 10000 iu/1ml 6 syringes,6.0,343.4935080679282
+influenza virus vaccine,,,326.0979755135088
+influenza vaccine quadrivalent,,,300.2798517939327
+lactulose enema,,,231.46543719415436
+xopenex neb,,,105.11479621809295
+levalbuterol neb,,,223.08021394340628
+dextrose 5%,abbosynagis 50mg pul for inj+solv,1.0,258.4886868174003
+moxifloxacin,vigamox opht sol 5ml,5.0,44.527758916731486
+sodium chloride 0.9%  flush,,,294.89014968932423
+niacin sr,niaspan 1000mg e.r. 90 f.c.tab,90.0,266.20423139442335
+norepinephrine,levophed 8mg/4ml 10amp,10.0,139.56701338071227
+phenylephrine,binocrit 10000 i.u/0.1 ml 6 syringe prefilled,6.0,307.8101428840672
+phenytoin (suspension),,,121.6879230806997
+plasmalyte,,,214.6926487257353
+vancomycin enema,,,119.04062231164156
+verapamil sr,,,374.09487488504595
+citrate dextrose 3% (acd-a) crrt,,,247.50807435977848
+aspirin 81 mg,,,327.5438414222767
+blue cadd cassette,,,397.3340333130604
+d5 1/2ns,,,233.21805134358158
+epinephrine 1:1000,,,257.22220860365
+epoetin alfa,,,143.19377431397203
+glucose gel,,,100.68134151176493
+heparin flush (100 units/ml),,,218.9990518055846
+0.9% sodium chloride (mini bag plus),,,168.52053174936165
+sodium citrate 4%,,,241.3300411246471
+amino acids 5%-dextrose 15%,,,110.77201522010976
+phenytoin sodium,dilantin susp 237ml,237.0,223.0895081830233
+emtricitabine-tenofovir (truvada),,,144.08361170539158
+heparin (iabp),,,294.87346305634605
+potassium chl 20 meq / 1000 ml ns,,,208.92681775043545
+potassium chl 40 meq / 1000 ml ns,,,321.2674913104746
+ropivacaine 0.2%,,,120.14676008499306
+hydrocodone-acetaminophen (5mg-325mg),,,338.713022294992
+0.83% sodium chloride,abbosynagis 50mg pul for inj+solv,1.0,212.95482962535607
+potassium chl 20 meq / 1000 ml d5lr,,,299.7084448083515
+potassium chl 20 meq / 1000 ml d5ns,,,271.92109388592456
+potassium chl 40 meq / 1000 ml d5ns,,,220.98192041114555
+prismasate (b22 k4),,,215.71542031301522
+prismasate (b32 k2),,,394.63116617119226
+potassium chl 20 meq / 1000 ml d5 1/2 ns,,,222.552952118579
+potassium chl 40 meq / 1000 ml d5 1/2 ns,,,155.11137324804162
+doxazosin,,,279.2909189095503
+methimazole,zoely 28tab,28.0,53.75421126830722
+ramipril,cipramil 40mg 28tabs,28.0,60.39662862466477
+duloxetine,cymbalta 30mg 28caps,28.0,70.85201500116348
+enalapril maleate,enalapril 10mg 30tab,30.0,15.167979252668866
+nexium,nexium 20mg 28tab,28.0,42.34989876661492
+tricor,,,116.82543784563462
+indomethacin,,,106.88328694610914
+potassium chloride replacement (oncology),,,321.98612623526503
+methylprednisolone,depo medrol 40mg/ml 1ml,1.0,15.886334750075264
+nadolol,,,181.09627993279278
+nimodipine,,,190.98798893868036
+paroxetine,,,264.26123887477286
+phenytoin infatab,,,239.41940626889146
+pyridoxine,engerix b 20mcg/ml adult vial,1.0,93.18572707696777
+tamoxifen citrate,nolvadex 20mg 30tab,30.0,35.17083050994158
+thrombin,,,155.87476251736717
+amoxicillin,augmentin 1.2g 10vials,10.0,151.30731945008037
+hydroxychloroquine sulfate,plaquenil 200mg 100tab,100.0,106.28431710151436
+neomycin sulfate,coliracin inj.,1.0,21.420353364306095
+nitroprusside sodium,ruconest - powder for sol for inj vial 25ml,1.0,315.8387006132868
+sodium chloride nasal,abbosynagis 50mg pul for inj+solv,1.0,151.21787490445737
+vasopressin,glypressin 1mg/5ml 5vial,5.0,130.92906639961376
+albumin 5%,,,255.2893976381993
+hepatitis b vaccine,,,317.8607354096994
+ibuprofen suspension,,,395.44975896200305
+rasburicase,,,249.50086122234148
+metformin xr (glucophage xr),,,391.5930094736375
+syringe (0.9% sodium chloride),,,107.60971244773057
+readi-cat 2 (barium sulfate 2% suspension),,,161.14681128239513
+vitamin a,amoxiclav teva 875mg 14tab,14.0,37.50785862421989
+ibrutinib,imbruvica 140mg 120capsules,120.0,259.00599020349233
+morphine sulfate (oral soln.),morphine hcl 20mg/ml  5amp,5.0,23.347039093635683
+thyroid,,,321.40716458267246
+adde,,,265.72133382691607
+furosemide-heart failure,,,372.0662132386986
+ivermectin,,,374.2827774095487
+bumetanide,,,290.7364390986975
+cefpodoxime proxetil,,,133.95517328680987
+felodipine,,,258.877551488204
+divalproex sod. sprinkles,,,320.45668536073316
+phenobarbital,,,258.2201711666025
+methylprednisolone sod succ,depo medrol 40mg/ml 1ml,1.0,15.886334750075264
+desmopressin acetate,desmopressin teva 0.1mg 30tab,30.0,97.99747650547384
+potassium phosphate,,,171.2188879946062
+sodium phosphate,dexacort forte 5amp,5.0,209.0269000329387
+succinylcholine,,,132.88570144847276
+levetiracetam oral solution,,,200.39731846487575
+fosaprepitant,emend 1x125mg+2x80mg caps,3.0,325.30433106790787
+daptomycin,cubicin 500mg vial 10ml,1.0,167.30237238327146
+idarubicin,dexamycin drops 5ml,5.0,209.0269000329387
+mitoxantrone,"mitoxantron ""ebewe"" 2 mg/ml vial 10mg/5ml",1.0,111.15570786283278
+syringe (chemo),,,105.50620272336353
+insulin (regular) for hyperkalemia,,,232.48279692159798
+alteplase,,,296.17102711836344
+niacin,niaspan 1000mg e.r. 90 f.c.tab,90.0,228.2053954007192
+ferric gluconate,,,272.6390805396612
+tobramycin sulfate,,,211.51832926594793
+syringe (iso-osmotic dextrose),,,171.01838458584163
+pamidronate,aredia vial 90mg pwdr 10ml solv,1.0,248.03697772048397
+sodium glycerophosphate,,,129.0910670321914
+daunorubicin,,,393.5172793889602
+aminocaproic acid,omnic 0.4mg 30 m.r. caps,30.0,43.04748082102776
+iso-osmotic dextrose,,,374.1283606750637
+clevidipine,,,305.4471864379801
+isotonic sodium chloride,,,318.63444163601434
+capsaicin 0.025%,,,141.64954548292076
+acetylcysteine 20%,,,300.512384389533
+bengay cream,,,377.76744506126624
+mupirocin cream 2%,bactroban 15gr oint,15.0,29.87885635405004
+mupirocin ointment 2%,,,225.6858462477575
+syringe (sw),,,192.58707176609957
+neostigmine,,,238.75753516707505
+ketamine (for intubation),,,322.4921793618655
+heparin (hemodialysis),,,239.40668012537495
+methotrexate,kivexa 30tab,30.0,146.84368111065334
+methylphenidate (ritalin),,,247.28479461119122
+atropine sulfate,,,130.98920170431916
+benztropine mesylate,,,230.10070131445772
+enalaprilat,,,290.0162138295567
+glycopyrrolate,montair 4 mg 30 chewtab,30.0,72.9197910253179
+nitroglycerin ointment  2%,,,259.07496482199195
+vecuronium bromide,,,185.35554120017466
+cisatracurium besylate,nimenrix 1x0.5ml vial powder+pre filled syr solvent,1.0,256.6542618359774
+tacrolimus suspension,,,100.37060035899754
+glycopyrrolate (cvicu reversal protocol),,,321.6428060440397
+fludarabine phosphate,"fludarabin ""ebewe"" 50 mg/2 ml vial",1.0,187.7973678953643
+acetaminophen w/codeine,,,127.38254774871295
+oxycodone-acetaminophen elixir,,,161.4718995764334
+hydrocodone-acetaminophen,,,112.63412868130742
+dexamethasone sod phosphate,dexacort forte 5amp,5.0,209.0269000329387
+rocuronium,rocuronium teva 10mg/ml 5ml 10vial,10.0,170.79659373521804
+carbamazepine,salazopirin-en 100tab,100.0,57.463962892234335
+filgrastim,neupogen 1 prefil.syr. 30mu/0.5ml,1.0,272.06741422062635
+ambisome,ambisome 50mg/vial 10vials,10.0,162.28522139902634
+sw,,,226.0089986314578
+mannitol 20%,azenil 200mg 22.5ml,22.5,35.23935448242813
+soln.,,,352.3149832329866
+acetazolamide sodium,,,101.57607628758954
+chlorothiazide sodium,,,155.6635966095298
+0.9% nacl (excel/viaflo bag),,,174.3723032680379
+d5ns,,,380.38834894412867
+sodium chloride 3% (hypertonic),,,355.8853210698448
+decitabine,dacogen 50 mg/vial 1x20ml vial,1.0,294.22996919316
+nystatin cream,,,392.465280630792
+tucks hemorrhoidal oint 1%,,,336.2284918411827
+ipratropium bromide mdi,atrovent inhaler 20mcg 200doses,200.0,32.9235647923708
+terbinafine 1% cream,,,100.73452009232379
+collagenase ointment,,,263.93189157779085
+dorzolamide 2%/timolol 0.5% ophth.,,,111.73683047489914
+lidocaine-prilocaine,,,363.2368799242933
+fluticasone propionate nasal,advagraf 0.5mg 50  p.r. caps,50.0,252.70536573082205
+latanoprost 0.005% ophth. soln.,,,147.21833210129134
+prednisolone acetate 1% ophth. susp.,betacorten g oint15g,15.0,53.554489935632944
+salmeterol xinafoate diskus (50 mcg),,,182.6398355303589
+aquaphor ointment,,,323.9349827292081
+chloraseptic throat spray,,,251.1800104384643
+hydrocortisone cream 2.5%,dermacombin oint 15g,15.0,87.710743282789
+lidocaine jelly 2%,,,190.65922980530505
+sodium fluoride 1.1% (dental gel),,,331.35759559029617
+brimonidine tartrate 0.15% ophth.,alphagan p 0.15% 5ml,5.0,209.0269000329387
+clobetasol propionate 0.05% cream,clobetasol propionate trima cream 25g,25.0,16.305499651917817
+clobetasol propionate 0.05% ointment,clobetasol propionate trima cream 25g,25.0,16.305499651917817
+fluticasone propionate 110mcg,advagraf 0.5mg 50  p.r. caps,50.0,252.70536573082205
+triamcinolone acetonide 0.1% cream,sterocort 4mg 30tab,30.0,21.56701870892644
+triamcinolone acetonide 0.1% ointment,sterocort 4mg 30tab,30.0,21.56701870892644
+triamcinolone acetonide 0.025% cream,sterocort 4mg 30tab,30.0,21.56701870892644
+dexamethasone ophthalmic susp 0.1%,,,257.7711065328722
+ciprofloxacin 0.3% ophth soln,,,325.0985605864161
+lidocaine 0.5%,,,126.11685739338225
+dexamethasone ophthalmic soln 0.1%,,,373.1125208047066
+calcitonin salmon,dalacin c 150mg 16caps,16.0,20.02470838549805
+insulin regular human (u-500),,,235.66602720699876
+neostigmine (cvicu reversal protocol),,,166.4564325942549
+promethazine,promethazine 0.1% 100ml,100.0,19.7316982762456
+ziprasidone mesylate,,,250.92300897695657
+maalox/lidocaine,,,390.12430856351716
+isosorbide dinitrate er,,,173.37021607414462
+etoposide,etoposide 20mg/ml 50ml (1000mg),50.0,325.84225257666924
+sodium chloride 0.9%,abbosynagis 50mg pul for inj+solv,1.0,266.616964923104
+d5lr,,,285.52253049961524
+0.45% sodium chloride,abbosynagis 50mg pul for inj+solv,1.0,319.1289490041078
+d5 1/4ns,,,190.32021149544553
+hydromorphone-hp,,,136.1113561771295
+doxercalciferol,,,370.76952764461305
+sulfamethoxazole-trimethoprim,,,100.26306913659704
+acetylcysteine (iv),,,158.91881415041757
+carboplatin,"carboplatin ""ebewe"" 150mg/15ml",1.0,156.4917355099171
+dorzolamide 2% ophth. soln.,,,179.32676492482133
+erythromycin 0.5% ophth oint,akne-mycin emul. 25g,25.0,22.616784595421255
+maalox/diphenhydramine/lidocaine,,,198.1026983377653
+guaifenesin-codeine phosphate,,,255.70615381063004
+busulfan,myleran 2mg 100tab,100.0,275.8337089067382
+ipratropium-albuterol inhalation spray,,,228.26009092849384
+oxymetazoline,,,361.099947874159
+timolol maleate 0.5%,combigan eye drops 5 ml,5.0,77.77135379736363
+hydrocortisone (rectal) 2.5% cream,dermacombin oint 15g,15.0,87.710743282789
+hydrocortisone,betacorten cream 15g,15.0,8.815949676632881
+artificial tear ointment,,,390.55871877603454
+fluticasone-salmeterol diskus (250/50),,,345.11481577057083
+fluticasone-salmeterol diskus (100/50),,,163.81570465928505
+dextromethorphan-guaifenesin (sugar free),,,122.9225469590287
+glycerin supps,,,131.49070222742353
+phenobarbital - icu alcohol withdrawal (loading dose 2 and 3),,,259.42334131352413
+phenobarbital - icu alcohol withdrawal (loading dose 1),,,266.6812836943888
+phenobarbital - icu alcohol withdrawal (initial load / rescue dose),,,220.8055469840832
+heparin dwell (1000 units/ml),,,180.16381844305587
+heparin flush (1000 units/ml),,,129.2652253434646
+artificial tears,,,175.1956749074965
+albuterol-ipratropium,,,292.98470015630994
+atropine sulfate 1%,,,290.9575764001656
+artificial tears preserv. free,,,365.33524383042635
+carbamide peroxide 6.5%,,,153.11808646028655

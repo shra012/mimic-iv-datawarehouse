@@ -34,7 +34,9 @@ s3_icu = f"{s3_base}/icu"
 admissions_df = spark.read.format("csv").option("header", "true").load(f"{s3_hosp}/admissions.csv")
 patients_df = spark.read.format("csv").option("header", "true").load(f"{s3_hosp}/patients.csv")
 drgcodes_df = spark.read.format("csv").option("header", "true").load(f"{s3_hosp}/drgcodes.csv")
+prescriptions_df = spark.read.format("csv").option("header", "true").load(f"{s3_hosp}/prescriptions.csv")
 icustays_df = spark.read.format("csv").option("header", "true").load(f"{s3_icu}/icustays.csv")
+medical_cost_df = spark.read.format("csv").option("header", "true").load(f"{s3_base}/cost/final_drug_mapping.csv")
 
 extract_icu_type_udf = udf(extract_icu_type, StringType())
 patients_admissions_joined = patients_df.alias("pat").join(admissions_df.alias("adm"), ["subject_id"], "left")
@@ -72,8 +74,19 @@ fact_icustay = admission_icustays.select(
     F.col("icu.stay_id").alias("stay_id"),
     F.col("icu.intime").alias("icu_admit_date"),
     F.col("icu.outtime").alias("icu_discharge_date"),
-    F.col("icu.los").alias("total_icu_days")
+    F.col("icu.los").alias("total_icu_days"),
+    F.col("adm.hospital_expire_flag").alias("survived"),
 )
+# lab_costs = labevents_df.groupBy("hadm_id").agg(F.sum(F.col("lab_cost").cast("double")).alias("lab_tests_cost"))
+medical_joined = medical_cost_df.alias("med").join(prescriptions_df.alias("pre"), ["drug"], "inner")
+medicine_costs = medical_joined.groupBy("hadm_id").agg(F.sum(F.col("cost").cast("double")).alias("medicine_cost"))
+# fact_icustay_enhanced = (fact_icustay.join(lab_costs, fact_icustay.admission_id == lab_costs.hadm_id, "left")
+#                          .join(medicine_costs, fact_icustay.admission_id == medicine_costs.hadm_id, "left")
+#                          .drop(lab_costs.hadm_id).drop(medicine_costs.hadm_id)
+#                          .withColumn("lab_tests_cost", F.coalesce(F.col("lab_tests_cost"), F.lit(0)))
+#                          .withColumn("medicine_cost", F.coalesce(F.col("medicine_cost"), F.lit(0)))
+#                          .withColumn("total_cost", F.col("lab_tests_cost") + F.col("medicine_cost")))
+
 
 dates_admit_df = fact_icustay.select(to_date(F.col("icu_admit_date")).alias("calendar_date")).distinct()
 dates_discharge_df = fact_icustay.select(to_date(F.col("icu_discharge_date")).alias("calendar_date")).distinct()

@@ -103,7 +103,6 @@
 #     F.col("icu.stay_id").alias("stay_id"),
 #     F.col("icu.intime").alias("icu_admit_date"),
 #     F.col("icu.outtime").alias("icu_discharge_date"),
-#     F.col("icu.los").alias("total_icu_days"),
 #     F.col("icu.los").alias("total_icu_days")
 # )
 #
