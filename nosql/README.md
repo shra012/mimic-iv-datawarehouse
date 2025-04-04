@@ -50,24 +50,20 @@ This project demonstrates a FastAPI application that connects to both a MongoDB 
 ## API Endpoints
 
 ### MongoDB Endpoints
-  GET /mongo/employees_by_company
-Groups employees by insurance company (based on AGENT_ID and joined with the insurance collection) and returns up to 20 records.
-	GET /mongo/vendors_by_company
-Joins the insurance collection with vendor documents and groups vendors by insurance company.
-	GET /mongo/policies_by_company_and_type
-Groups insurance policies by company and policy type.
-	GET /mongo/top_5_claims
-Retrieves the top 5 claims by amount for each company and policy category.
+
+- GET /mongo/employees_by_company : Groups employees by insurance company (based on AGENT_ID and joined with the insurance collection) and returns up to 20 records.
+
+- GET /mongo/vendors_by_company : Joins the insurance collection with vendor documents and groups vendors by insurance company.
+
+- GET /mongo/policies_by_company_and_type : Groups insurance policies by company and policy type.
+
+- GET /mongo/top_5_claims : Retrieves the top 5 claims by amount for each company and policy category.
 
 ### Neo4j Endpoints
-  GET /ne04j/employees_by_company
-Groups employees by insurance company using Neo4j and returns a list of employee details.
-	GET /ne04j/vendors_by_company
-Joins employees, insurance, and vendor nodes to return vendors associated with each employee’s insurance.
-	GET /ne04j/policies_by_company_and_type
-Groups insurance nodes by company and policy type.
-	GET /ne04j/top_5_claims
-Retrieves the top 5 claims by amount for each (company, policy type) pair.
+- GET /ne04j/employees_by_company : Groups employees by insurance company using Neo4j and returns a list of employee details.
+- GET /ne04j/vendors_by_company : Joins employees, insurance, and vendor nodes to return vendors associated with each employee’s insurance.
+- GET /ne04j/policies_by_company_and_type : Groups insurance nodes by company and policy type.
+- GET /ne04j/top_5_claims : Retrieves the top 5 claims by amount for each (company, policy type) pair.
 
 ## File structure
   ```bash
