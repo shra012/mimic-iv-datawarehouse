@@ -86,6 +86,11 @@ medicine_costs = medical_joined.groupBy("hadm_id").agg(F.sum(F.col("cost").cast(
 #                          .withColumn("lab_tests_cost", F.coalesce(F.col("lab_tests_cost"), F.lit(0)))
 #                          .withColumn("medicine_cost", F.coalesce(F.col("medicine_cost"), F.lit(0)))
 #                          .withColumn("total_cost", F.col("lab_tests_cost") + F.col("medicine_cost")))
+fact_icustay_enhanced = (fact_icustay.join(medicine_costs, fact_icustay.admission_id == medicine_costs.hadm_id, "left")
+                         .drop(medicine_costs.hadm_id)
+                         .withColumn("lab_tests_cost", F.coalesce(F.col("lab_tests_cost"), F.lit(0)))
+                         .withColumn("medicine_cost", F.coalesce(F.col("medicine_cost"), F.lit(0)))
+                         .withColumn("total_cost", F.col("lab_tests_cost") + F.col("medicine_cost")))
 
 
 dates_admit_df = fact_icustay.select(to_date(F.col("icu_admit_date")).alias("calendar_date")).distinct()
