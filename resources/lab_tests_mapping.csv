@@ -1,0 +1,185 @@
+Test Name or Category,Average Price ($)
+Basic Electrolytes,5.00
+Comprehensive Electrolytes,7.00
+Liver Function Tests,7.50
+Renal Function Tests,7.00
+Lipid Tests,8.50
+Cardiac Markers,14.00
+Therapeutic Drug Monitoring,16.00
+Endocrine Tests,18.00
+Specialized Chemistry Tests,12.00
+Complete Blood Count (CBC),8.50
+CBC with Differential,10.50
+Coagulation Basic,8.00
+Coagulation Advanced,12.00
+Blood Typing,7.00
+Blood Gases,7.50
+Basic Metabolic Panel (BMP),11.50
+Comprehensive Metabolic Panel (CMP),14.50
+Hepatic Function Panel,11.00
+Renal Function Panel,12.00
+Electrolyte Panel,9.50
+Lipid Panel,18.50
+Thyroid Panel,23.50
+Alanine Aminotransferase (ALT),7.50
+Albumin,6.80
+"Albumin, Blood",6.80
+Alkaline Phosphatase,7.20
+Alpha-1-Antitrypsin,14.50
+Alpha-Fetoprotein,22.00
+Ammonia,16.00
+Amylase,8.80
+Anion Gap,5.00
+Anti-Nuclear Antibody,17.50
+Aspartate Aminotransferase (AST),7.50
+Barbiturates,14.50
+Base Excess,6.50
+Basophils,4.00
+Bicarbonate,5.50
+"Bilirubin, Direct",7.50
+"Bilirubin, Total",7.00
+Bleeding Time,7.50
+Blood Gas pH,7.50
+Blood Urea Nitrogen (BUN),5.80
+BUN/Creatinine Ratio,5.00
+C Peptide,16.50
+C-Reactive Protein,8.00
+C3 Complement,13.50
+C4 Complement,13.50
+CA 125,25.00
+CA 15-3,25.00
+CA 19-9,25.00
+Calcium,5.75
+"Calcium, Ionized",7.80
+Carbon Dioxide,5.50
+Carboxyhemoglobin,11.00
+Carcinoembryonic Antigen (CEA),25.00
+Chloride,5.00
+Cholesterol,6.00
+"Cholesterol, HDL",11.00
+"Cholesterol, LDL",12.00
+Cholinesterase,12.00
+"Complement, Total",14.00
+Cortisol,20.00
+Creatine Kinase (CK),8.50
+Creatine Kinase-MB,12.50
+Creatinine,6.50
+Creatinine Clearance,12.00
+D-Dimer,14.00
+Digoxin,16.00
+Eosinophils,4.00
+Erythrocyte Sedimentation Rate,5.50
+Estradiol,24.00
+Ethanol,14.00
+Factitious Blood Gas,6.00
+Ferritin,18.50
+Fibrin Degradation Products,14.00
+Fibrinogen,13.00
+Folate,20.00
+Free Calcium,7.50
+Free Thyroxine Index,12.00
+Free Triiodothyronine,22.00
+Free Thyroxine,12.00
+Gamma Glutamyl Transferase,8.00
+Globulin,4.50
+Glucose,5.80
+"Glucose, Body Fluid",6.00
+"Glucose, CSF",6.00
+Glucose-6-Phosphate Dehydrogenase,12.00
+Glycosylated Hemoglobin A1C,13.00
+Haptoglobin,15.00
+"HCG, Qualitative",10.00
+"HCG, Quantitative",20.00
+Hematocrit,4.50
+Hemoglobin,4.75
+Hemoglobin A1C,13.00
+Hemoglobin A2,16.00
+Hemoglobin F,16.00
+High Sensitivity CRP,10.00
+Homocysteine,23.00
+Iron,9.00
+Iron Binding Capacity,12.00
+Iron Saturation,5.00
+Lactate,7.20
+Lactate Dehydrogenase (LDH),8.50
+Lipase,9.50
+Lithium,12.00
+Lymphocytes,4.00
+Magnesium,7.00
+Mean Corpuscular Hemoglobin (MCH),3.50
+Mean Corpuscular Hemoglobin Concentration (MCHC),3.50
+Mean Corpuscular Volume (MCV),3.50
+Mean Platelet Volume (MPV),3.50
+Methemoglobin,12.00
+Monocytes,4.00
+Myeloperoxidase Ab,24.00
+Neutrophils,4.00
+O2 Flow,6.20
+O2 Saturation,7.00
+"Osmolality, Calculated",3.00
+"Osmolality, Measured",8.10
+Oxygen Content,7.00
+Oxygen Saturation,7.00
+Partial Thromboplastin Time (PTT),8.00
+pCO2,6.00
+pH,5.50
+Phosphate,7.20
+Platelets,5.50
+pO2,6.00
+Potassium,5.20
+Prealbumin,17.00
+Progesterone,24.00
+Prolactin,23.00
+"Protein, Total",5.00
+Prothrombin Time (PT),5.50
+"PTH, Intact",25.00
+Red Blood Cell Count,4.00
+Red Cell Distribution Width,3.50
+Required O2,6.00
+Reticulocyte Count,7.50
+Rheumatoid Factor,8.00
+Sodium,5.00
+T3 Total,20.00
+T3 Uptake,10.50
+T4 Total,11.00
+Temperature,2.00
+Testosterone,24.00
+Thyroid Stimulating Hormone,23.00
+Thyroxine Binding Globulin,16.00
+Total CO2,5.75
+Total Calcium,5.75
+Transferrin,15.00
+Triglycerides,7.50
+Troponin I,13.50
+Troponin T,13.50
+Uric Acid,6.00
+"Urinalysis, Microscopic",4.50
+"Urinalysis, Routine",3.50
+Urobilinogen,4.00
+Valproic Acid,17.00
+Vancomycin,17.50
+Vitamin B12,20.00
+"Vitamin D, 25-Hydroxy",40.00
+White Blood Cell Count,4.00
+White Blood Cell Differential,6.00
+Alveolar-arterial Gradient,7.50
+Base Excess,6.50
+CO2,5.50
+Carboxyhemoglobin,11.00
+Factitious Blood Gas,6.00
+HCO3,5.50
+Methemoglobin,12.00
+O2 Saturation,7.00
+Oxygen Content,7.00
+"pH, Blood",5.50
+pCO2,6.00
+pO2,6.00
+Blood Gas,7.25
+Chemistry,8.00
+Hematology,6.00
+Coagulation,10.50
+Fluid,6.75
+Immunology,16.50
+Microbiology,14.50
+ABL (Blood gas analyzer),7.50
+Physician interpretation,15.00

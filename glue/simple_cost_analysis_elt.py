@@ -6,7 +6,7 @@ from awsglue.utils import getResolvedOptions
 from pyspark.context import SparkContext
 from pyspark.sql import functions as F
 from pyspark.sql.types import StringType
-from pyspark.sql.functions import udf, to_date, date_format, expr
+from pyspark.sql.functions import udf, to_date, date_format, expr, lower, trim, col
 
 
 def extract_icu_type(icu_name):
@@ -37,6 +37,10 @@ drgcodes_df = spark.read.format("csv").option("header", "true").load(f"{s3_hosp}
 prescriptions_df = spark.read.format("csv").option("header", "true").load(f"{s3_hosp}/prescriptions.csv")
 icustays_df = spark.read.format("csv").option("header", "true").load(f"{s3_icu}/icustays.csv")
 medical_cost_df = spark.read.format("csv").option("header", "true").load(f"{s3_base}/cost/final_drug_mapping.csv")
+
+medical_cost_df = medical_cost_df.withColumn("drug", lower(trim(col("drug"))))
+prescriptions_df = prescriptions_df.withColumn("drug", lower(trim(col("drug"))))
+
 
 extract_icu_type_udf = udf(extract_icu_type, StringType())
 patients_admissions_joined = patients_df.alias("pat").join(admissions_df.alias("adm"), ["subject_id"], "left")
@@ -80,6 +84,7 @@ fact_icustay = admission_icustays.select(
 # lab_costs = labevents_df.groupBy("hadm_id").agg(F.sum(F.col("lab_cost").cast("double")).alias("lab_tests_cost"))
 medical_joined = medical_cost_df.alias("med").join(prescriptions_df.alias("pre"), ["drug"], "inner")
 medicine_costs = medical_joined.groupBy("hadm_id").agg(F.sum(F.col("cost").cast("double")).alias("medicine_cost"))
+
 # fact_icustay_enhanced = (fact_icustay.join(lab_costs, fact_icustay.admission_id == lab_costs.hadm_id, "left")
 #                          .join(medicine_costs, fact_icustay.admission_id == medicine_costs.hadm_id, "left")
 #                          .drop(lab_costs.hadm_id).drop(medicine_costs.hadm_id)
@@ -88,9 +93,8 @@ medicine_costs = medical_joined.groupBy("hadm_id").agg(F.sum(F.col("cost").cast(
 #                          .withColumn("total_cost", F.col("lab_tests_cost") + F.col("medicine_cost")))
 fact_icustay_enhanced = (fact_icustay.join(medicine_costs, fact_icustay.admission_id == medicine_costs.hadm_id, "left")
                          .drop(medicine_costs.hadm_id)
-                         .withColumn("lab_tests_cost", F.coalesce(F.col("lab_tests_cost"), F.lit(0)))
                          .withColumn("medicine_cost", F.coalesce(F.col("medicine_cost"), F.lit(0)))
-                         .withColumn("total_cost", F.col("lab_tests_cost") + F.col("medicine_cost")))
+                         .withColumn("total_cost", F.col("medicine_cost")))
 
 
 dates_admit_df = fact_icustay.select(to_date(F.col("icu_admit_date")).alias("calendar_date")).distinct()
@@ -103,11 +107,12 @@ dim_date_df = (all_dates_df.withColumn("date_id", date_format(F.col("calendar_da
                .withColumn("day_of_week", date_format(F.col("calendar_date"), "EEEE"))
                .filter(F.col("date_id").isNotNull()))
 
-s3_out = "s3://mimic-iv-datas/glue/parquet"
+
+s3_out = f"{s3_base}/glue/parquet"
 dim_patient.write.mode("overwrite").parquet(f"{s3_out}/dim_patient/")
 dim_admission.write.mode("overwrite").parquet(f"{s3_out}/dim_admission/")
 dim_icu_unit.write.mode("overwrite").parquet(f"{s3_out}/dim_icu_stay/")
 dim_date_df.write.mode("overwrite").parquet(f"{s3_out}/dim_date/")
-fact_icustay.write.mode("overwrite").parquet(f"{s3_out}/fact_icustay/")
+fact_icustay_enhanced.write.mode("overwrite").parquet(f"{s3_out}/fact_icustay/")
 
 job.commit()
