@@ -1,0 +1,1168 @@
+label,category,price
+free calcium,Blood Gas,7.5
+tidal volume,Blood Gas,8.0
+lactate,Blood Gas,8.5
+% ionized calcium,Blood Gas,7.8
+alveolar-arterial gradient,Blood Gas,7.5
+"hematocrit, calculated",Blood Gas,8.0
+delete,Blood Gas,8.0
+osmolality,Blood Gas,8.0
+"albumin, blood",Blood Gas,8.0
+"chloride, whole blood",Blood Gas,8.0
+ph,Blood Gas,5.5
+hematocrit,Blood Gas,4.5
+voided specimen,Blood Gas,8.0
+intubated,Blood Gas,8.0
+oxygen saturation,Blood Gas,8.0
+total calcium,Blood Gas,5.75
+required o2,Blood Gas,6.0
+"creatinine, whole blood",Blood Gas,8.0
+wb tco2,Blood Gas,8.0
+o2 flow,Blood Gas,6.2
+"potassium, whole blood",Blood Gas,8.0
+calculated total co2,Blood Gas,8.0
+lithium,Blood Gas,12.0
+hemoglobin,Blood Gas,13.0
+"sodium, whole blood",Blood Gas,8.0
+specimen type,Blood Gas,8.0
+"glucose, whole blood",Blood Gas,8.0
+base excess,Blood Gas,6.5
+methemoglobin,Blood Gas,12.0
+pco2,Blood Gas,6.0
+ventilator,Blood Gas,8.0
+glucose,Blood Gas,5.8
+po2,Blood Gas,6.0
+estimated gfr (mdrd equation),Blood Gas,8.0
+"calculated bicarbonate, whole blood",Blood Gas,8.0
+assist/control,Blood Gas,8.0
+ventilation rate,Blood Gas,8.0
+p50 of hemoglobin,Blood Gas,8.0
+peep,Blood Gas,8.0
+abz,Blood Gas,8.0
+carboxyhemoglobin,Blood Gas,11.0
+oxygen,Blood Gas,7.0
+temperature,Blood Gas,2.0
+calculated bicarbonate,Blood Gas,5.5
+"ph, urine",Blood Gas,8.0
+"osmolality, urine",Blood Gas,8.0
+"sodium, urine",Blood Gas,8.0
+"potassium, urine",Blood Gas,8.0
+fluid type,Blood Gas,8.0
+potassium,Blood Gas,5.2
+"sodium, body fluid",Blood Gas,8.0
+"po2, body fluid",Blood Gas,8.0
+"pco2, body fluid",Blood Gas,8.0
+acid phosphatase,Chemistry,75.0
+barbiturate screen,Chemistry,14.5
+carcinoembyronic antigen (cea),Chemistry,25.0
+cyclosporin,Chemistry,75.0
+ch50,Chemistry,75.0
+epstein-barr virus ebna igg ab,Chemistry,75.0
+immune complexes,Chemistry,75.0
+lidocaine,Chemistry,75.0
+white blood cells,Chemistry,75.0
+rfxfrkl,Chemistry,75.0
+hiv screen,Chemistry,75.0
+folate,Chemistry,20.0
+gamma glutamyltransferase,Chemistry,75.0
+"iron binding capacity, total",Chemistry,75.0
+uric acid,Chemistry,75.0
+icd9,Chemistry,75.0
+toxic screen,Chemistry,75.0
+toxoplasma igm ab,Chemistry,75.0
+xxx,Chemistry,75.0
+anti hav,Chemistry,75.0
+absolute a1c,Chemistry,75.0
+blue top hold,Chemistry,75.0
+homocysteine,Chemistry,23.0
+luteinizing hormone,Chemistry,75.0
+thyroid stimulating hormone,Chemistry,23.0
+anti-microsomal antibody,Chemistry,75.0
+hpe3,Chemistry,75.0
+"ld, isoenzyme 4",Chemistry,75.0
+mumps igg ab,Chemistry,75.0
+quantitative rpr test,Chemistry,75.0
+stx3,Chemistry,75.0
+"anti-gliadin antibody, iga",Chemistry,75.0
+red top hold,Chemistry,75.0
+vitamin b12,Chemistry,20.0
+"calcium, total",Chemistry,75.0
+carbamazepine,Chemistry,75.0
+beta hydroxybutyrate,Chemistry,75.0
+calculated ck-mb,Chemistry,75.0
+fructosamine plus,Chemistry,75.0
+hpe2,Chemistry,75.0
+"ld, isoenzyme 2",Chemistry,75.0
+myoglobin,Chemistry,75.0
+rubella igg ab,Chemistry,75.0
+ammonia,Chemistry,16.0
+anti-mitochondrial antibody,Chemistry,75.0
+double stranded dna,Chemistry,75.0
+free kappa,Chemistry,75.0
+hemoglobin  a,Chemistry,75.0
+anti-dgp (iga/igg),Chemistry,75.0
+"hcg, maternal screen",Chemistry,75.0
+quinidine,Chemistry,75.0
+thyroglobulin,Chemistry,75.0
+cmv interpretation,Chemistry,15.0
+hepatitis c viral load,Chemistry,75.0
+qnthbsab,Chemistry,75.0
+alkaline phosphatase,Chemistry,75.0
+magnesium,Chemistry,7.0
+vancomycin,Chemistry,17.5
+hbeag,Chemistry,75.0
+toxoplasma igg ab value,Chemistry,75.0
+d-dimer,Chemistry,14.0
+sodium,Chemistry,5.0
+cmv igm ab value,Chemistry,75.0
+cvhlc,Chemistry,75.0
+hpe4,Chemistry,75.0
+digoxin,Chemistry,16.0
+"bilirubin, neonatal, direct",Chemistry,7.5
+serum b12,Chemistry,75.0
+stx1,Chemistry,75.0
+anion gap,Chemistry,5.0
+asparate aminotransferase,Chemistry,75.0
+fax,Chemistry,75.0
+follicle stimulating hormone,Chemistry,75.0
+immunoglobulin a,Chemistry,75.0
+parathyroid hormone,Chemistry,75.0
+rheumatoid factor,Chemistry,8.0
+salicylate,Chemistry,75.0
+tacrofk,Chemistry,75.0
+clostrid,Chemistry,75.0
+epstein-barr virus vca igm ab,Chemistry,75.0
+hepatitis b virus e antigen,Chemistry,75.0
+lip2,Chemistry,75.0
+lyme g and m value,Chemistry,75.0
+rapid plasma reagin test,Chemistry,75.0
+toxoplasma igg ab,Chemistry,75.0
+pan3,Chemistry,75.0
+"cholesterol, ldl, calculated",Chemistry,75.0
+gastrin,Chemistry,75.0
+immunofixation,Chemistry,75.0
+"osmolality, measured",Chemistry,8.1
+hbsag,Chemistry,75.0
+hpe1,Chemistry,75.0
+immunoelectrophoresis,Chemistry,75.0
+z,Chemistry,75.0
+calculated tbg,Chemistry,75.0
+lipo electrophoresis,Chemistry,75.0
+toxoplasma interpretation,Chemistry,75.0
+aldosterone,Chemistry,75.0
+tobramycin,Chemistry,75.0
+"bilirubin, neonatal",Chemistry,75.0
+c5,Chemistry,75.0
+conj bili,Chemistry,75.0
+"creatine kinase, isoenzyme bb",Chemistry,75.0
+rfxhcv,Chemistry,75.0
+anti-smooth muscle antibody,Chemistry,75.0
+calculated free testosterone,Chemistry,24.0
+light green top hold,Chemistry,75.0
+chol estr,Chemistry,75.0
+np-fx,Chemistry,75.0
+reflex confirmatory hepatitis c viral load,Chemistry,75.0
+treponema pallidum (syphilis) ab,Chemistry,75.0
+anti hbs,Chemistry,75.0
+hepatitis b virus core antibody,Chemistry,75.0
+immunoglobulin g,Chemistry,75.0
+prostate specific antigen,Chemistry,75.0
+tricyclic antidepressant screen,Chemistry,75.0
+"ue3, maternal screen",Chemistry,75.0
+anti-ro,Chemistry,75.0
+arch-1,Chemistry,75.0
+"creatine kinase, isoenzyme mm",Chemistry,75.0
+down syndrome risk,Chemistry,75.0
+insulin,Chemistry,75.0
+treponema pallidum (syphilis) value,Chemistry,75.0
+% hemoglobin a1c,Chemistry,75.0
+blood culture hold,Chemistry,75.0
+carotene,Chemistry,75.0
+reserved4,Chemistry,75.0
+anca titer,Chemistry,75.0
+chloride,Chemistry,5.0
+procainamide,Chemistry,75.0
+prolactin,Chemistry,23.0
+"protein, total",Chemistry,75.0
+anti-sars-cov-2 iga,Chemistry,75.0
+eag,Chemistry,75.0
+fructosamine,Chemistry,75.0
+referred,Chemistry,75.0
+thyroid binding globulin,Chemistry,4.5
+alanine aminotransferase,Chemistry,75.0
+"anti-nuclear antibody, titer",Chemistry,75.0
+ethanol,Chemistry,14.0
+phenobarbital,Chemistry,75.0
+transferrin,Chemistry,75.0
+"hcg, qualitative",Chemistry,10.0
+h. pylori igg ab value,Chemistry,75.0
+neural tube defect risk,Chemistry,75.0
+"bilirubin, direct",Chemistry,75.0
+c2,Chemistry,75.0
+"monospot, rapid antigen",Chemistry,75.0
+not done,Chemistry,75.0
+zinc,Chemistry,75.0
+alanine aminotransferase (alt),Chemistry,7.5
+beta-2 microglobulin,Chemistry,75.0
+cryoglobulin,Chemistry,75.0
+bioavailable testosterone,Chemistry,75.0
+glycated hemoglobin,Chemistry,75.0
+"hcg, multiples of median",Chemistry,75.0
+hepatitis b virus e antibody,Chemistry,75.0
+ee5,Chemistry,75.0
+calculated thyroxine (t4) index,Chemistry,12.0
+globulin,Chemistry,16.0
+green top hold (plasma),Chemistry,75.0
+hepatitis b surface antibody,Chemistry,75.0
+hepatitis b surface antigen,Chemistry,75.0
+cytomegalovirus viral load,Chemistry,75.0
+3t,Chemistry,75.0
+afp mom,Chemistry,75.0
+hepatitis b viral load,Chemistry,75.0
+platelet count,Chemistry,75.0
+stx4,Chemistry,75.0
+ee2,Chemistry,75.0
+amylase,Chemistry,75.0
+alpha-1,Chemistry,75.0
+alpha-2,Chemistry,75.0
+amikacin,Chemistry,75.0
+"bilirubin, total",Chemistry,7.0
+estradiol,Chemistry,24.0
+disopyramide,Chemistry,75.0
+epstein-barr virus igm ab value,Chemistry,75.0
+ethylene glycol,Chemistry,75.0
+fibrinogen,Chemistry,13.0
+growth hormone,Chemistry,75.0
+hemoglobin  a2,Chemistry,75.0
+hpe8,Chemistry,75.0
+mdrdgfr,Chemistry,75.0
+11-deoxycorticosterone,Chemistry,75.0
+acetone,Chemistry,75.0
+"cholesterol, total",Chemistry,75.0
+thyroxine (t4),Chemistry,75.0
+uptake ratio,Chemistry,10.5
+c1q,Chemistry,75.0
+l,Chemistry,75.0
+rubeola igg ab,Chemistry,75.0
+rubeola igg ab value,Chemistry,75.0
+ee1,Chemistry,75.0
+alpha-1-antitrypsin,Chemistry,14.5
+"bilirubin, indirect",Chemistry,75.0
+iron,Chemistry,12.0
+"phenytoin, free",Chemistry,75.0
+hemoglobin  s,Chemistry,75.0
+"ld, isoenzyme 1",Chemistry,75.0
+"ld, isoenzyme 3",Chemistry,75.0
+progesterone,Chemistry,24.0
+"ue3, multiples of median",Chemistry,75.0
+call,Chemistry,75.0
+ck-mb index,Chemistry,75.0
+lactate dehydrogenase (ld),Chemistry,7.2
+rapamycin,Chemistry,75.0
+stat,Chemistry,75.0
+epstein-barr virus interpretation,Chemistry,75.0
+lymphocytes,Chemistry,75.0
+stx2,Chemistry,75.0
+uncon bil,Chemistry,75.0
+anti hbc,Chemistry,75.0
+"afp, maternal screen",Chemistry,75.0
+anti-thyroglobulin antibodies,Chemistry,75.0
+anti-skin antibody,Chemistry,75.0
+c6,Chemistry,75.0
+"hemoglobin, calculated",Chemistry,75.0
+htlv ab,Chemistry,75.0
+lyme c6 ab,Chemistry,75.0
+mumps igg ab value,Chemistry,75.0
+reserved,Chemistry,75.0
+rfxldlm,Chemistry,75.0
+urea nitrogen,Chemistry,75.0
+hbv vl ct,Chemistry,75.0
+cancer antigen 27.29,Chemistry,75.0
+"cholesterol, hdl",Chemistry,11.0
+human chorionic gonadotropin,Chemistry,75.0
+protein electrophoresis,Chemistry,75.0
+triglycerides,Chemistry,7.5
+bromide,Chemistry,75.0
+dlta bili,Chemistry,75.0
+dr. x,Chemistry,75.0
+free lambda,Chemistry,75.0
+hlap,Chemistry,75.0
+bicarbonate,Chemistry,75.0
+blue top hold frozen,Chemistry,75.0
+centromere,Chemistry,75.0
+thyroid peroxidase antibodies,Chemistry,75.0
+beta,Chemistry,75.0
+chylomicrons,Chemistry,75.0
+d,Chemistry,75.0
+toxoplasma igm ab value,Chemistry,75.0
+c3,Chemistry,13.5
+dhea-sulfate,Chemistry,75.0
+haptoglobin,Chemistry,15.0
+copper,Chemistry,75.0
+digitoxin,Chemistry,75.0
+hsap,Chemistry,75.0
+(albumin),Chemistry,75.0
+alpha-fetoprotein,Chemistry,22.0
+hepatitis a virus igm antibody,Chemistry,75.0
+macro prolactin,Chemistry,75.0
+phenytoin,Chemistry,75.0
+"thyroxine (t4), free",Chemistry,12.0
+hemoglobin  f,Chemistry,75.0
+problem specimen,Chemistry,75.0
+reflex hiv confirmation,Chemistry,75.0
+ee7,Chemistry,75.0
+rubiggv,Chemistry,75.0
+,Chemistry,75.0
+anti-gbm antibody,Chemistry,75.0
+albumin,Chemistry,6.8
+"creatine kinase, mb isoenzyme",Chemistry,75.0
+"phenytoin, percent free",Chemistry,75.0
+reverse t3,Chemistry,75.0
+single stranded dna,Chemistry,75.0
+absolute lymphocyte count,Chemistry,75.0
+sex hormone binding globulin,Chemistry,75.0
+argon,Chemistry,75.0
+transferrin saturation,Chemistry,7.0
+"acid phosphatase, non-prostatic",Chemistry,75.0
+asparate aminotransferase (ast),Chemistry,7.5
+creatinine,Chemistry,12.0
+study tubes,Chemistry,75.0
+theophylline,Chemistry,75.0
+dirlst,Chemistry,75.0
+no md,Chemistry,75.0
+"cholesterol, ldl, measured",Chemistry,75.0
+"hepatitis b core antibody, igm",Chemistry,75.0
+troponin t,Chemistry,13.5
+high-sensitivity crp,Chemistry,10.0
+inr(pt),Chemistry,75.0
+serum folate,Chemistry,75.0
+xylose,Chemistry,75.0
+4t,Chemistry,75.0
+ca-125,Chemistry,75.0
+phosphate,Chemistry,75.0
+anti-microsomal antibodies,Chemistry,75.0
+c1 inhibitor,Chemistry,75.0
+"dimeric inhibin a, maternal screen",Chemistry,75.0
+mcv,Chemistry,75.0
+anti-parietal cell antibody,Chemistry,75.0
+valproic acid,Chemistry,17.0
+"bilirubin, neonatal, indirect",Chemistry,75.0
+epstein-barr virus igg ab value,Chemistry,75.0
+rubella,Chemistry,75.0
+total co2,Chemistry,5.75
+troponin i,Chemistry,13.5
+anti hbe,Chemistry,75.0
+c4,Chemistry,13.5
+hepatitis c virus antibody,Chemistry,75.0
+i,Chemistry,75.0
+hemoglobin  a1,Chemistry,75.0
+"acid phosphatase, prostatic fraction",Chemistry,75.0
+anti-la,Chemistry,75.0
+absolute hemoglobin,Chemistry,75.0
+edta hold,Chemistry,75.0
+ntprobnp,Chemistry,75.0
+"tissue transglutaminase ab, iga",Chemistry,75.0
+ca 19-9,Chemistry,25.0
+free kappa/free lambda ratio,Chemistry,75.0
+primidone,Chemistry,75.0
+renin,Chemistry,75.0
+vzv igg ab value,Chemistry,75.0
+ferritin,Chemistry,18.5
+gray top hold (plasma),Chemistry,75.0
+lipase,Chemistry,9.5
+"testosterone, free",Chemistry,75.0
+anti-sm,Chemistry,75.0
+cmv igg ab value,Chemistry,75.0
+hiv 1 ab confirmation,Chemistry,75.0
+reserved3,Chemistry,75.0
+absolute other wbc,Chemistry,75.0
+anti-nuclear antibody,Chemistry,17.5
+benzodiazepine screen,Chemistry,75.0
+c-reactive protein,Chemistry,8.0
+antirnp,Chemistry,75.0
+epstein-barr virus vca igg ab,Chemistry,75.0
+hpe9,Chemistry,75.0
+stx5,Chemistry,75.0
+delta/dlt,Chemistry,75.0
+lap,Chemistry,75.0
+"ld, isoenzyme 5",Chemistry,75.0
+pepgel,Chemistry,75.0
+vzv igg ab,Chemistry,75.0
+cortisol,Chemistry,20.0
+creatine kinase (ck),Chemistry,8.5
+immunoglobulin m,Chemistry,75.0
+cmv igg ab,Chemistry,75.0
+gamma,Chemistry,8.0
+hpe6,Chemistry,75.0
+"osmolality, calculated",Chemistry,3.0
+park,Chemistry,75.0
+absolute neutrophil,Chemistry,75.0
+hemoglobin  c,Chemistry,4.75
+hpe7,Chemistry,75.0
+anti-hbs,Chemistry,75.0
+testosterone,Chemistry,75.0
+billed,Chemistry,75.0
+hiv 1 viral load,Chemistry,75.0
+gamma glutamyltranferase,Chemistry,75.0
+methotrexate,Chemistry,75.0
+hiv 2 ab confirmation,Chemistry,75.0
+h. pylori igg ab,Chemistry,75.0
+reserved1,Chemistry,75.0
+ee3,Chemistry,75.0
+adrenocorticotrophic hormone,Chemistry,75.0
+anti-neutrophil cytoplasmic antibody,Chemistry,75.0
+cholesterol ratio (total/hdl),Chemistry,75.0
+n-acetylprocainamide (napa),Chemistry,75.0
+triiodothyronine (t3),Chemistry,22.0
+ifegel,Chemistry,75.0
+5' nucleotidase,Chemistry,75.0
+h,Chemistry,75.0
+hepatitis a virus antibody,Chemistry,75.0
+epstein-barr virus  ebna igg ab,Chemistry,75.0
+immunoglobulin e,Chemistry,75.0
+stx6,Chemistry,75.0
+treponemal antibody test,Chemistry,75.0
+ee6,Chemistry,75.0
+hiv final,Chemistry,75.0
+25-oh vitamin d,Chemistry,75.0
+acetaminophen,Chemistry,75.0
+gentamicin,Chemistry,75.0
+cmv igm ab,Chemistry,75.0
+confirmation,Chemistry,75.0
+"creatine kinase, isoenzyme mb",Chemistry,75.0
+hpe5,Chemistry,75.0
+k (green),Chemistry,75.0
+send out,Chemistry,75.0
+lyme vsie/pepc10 antibody,Chemistry,75.0
+cdt027,Chemistry,75.0
+norovirus genogroup i,Chemistry,75.0
+c diff toxin antigen assay,Chemistry,75.0
+"glucose, stool",Chemistry,75.0
+"creatinine, stool",Chemistry,75.0
+"potassium, stool",Chemistry,75.0
+"urea nitrogen, stool",Chemistry,75.0
+"bicarbonate, stool",Chemistry,75.0
+o & p,Chemistry,75.0
+"osmolality, stool",Chemistry,75.0
+72 hr fat,Chemistry,75.0
+"uric acid, stool",Chemistry,75.0
+"chloride, stool",Chemistry,75.0
+"sodium, stool",Chemistry,75.0
+"cholesterol, stool",Chemistry,75.0
+cryptococ,Chemistry,75.0
+c. diff pcr,Chemistry,75.0
+"amylase, stool",Chemistry,75.0
+sudan stain,Chemistry,75.0
+norovirus genogroup ii,Chemistry,75.0
+"triglycerides, stool",Chemistry,75.0
+"lactate dehydrogenase, stool",Chemistry,75.0
+"igg, stool",Chemistry,75.0
+"immunoelectrophoresis, stool",Chemistry,75.0
+"albumin, stool",Chemistry,75.0
+"bilirubin, total, stool",Chemistry,75.0
+"total protein, stool",Chemistry,75.0
+fl scan,Chemistry,75.0
+"iron, urine",Chemistry,75.0
+blood,Chemistry,8.5
+"cortisol, urine",Chemistry,75.0
+"albumin/creatinine, urine",Chemistry,75.0
+pan2,Chemistry,75.0
+"myoglobin, urine",Chemistry,75.0
+"amylase/creatinine ratio, urine",Chemistry,75.0
+"creatinine, serum",Chemistry,75.0
+"cocaine, urine",Chemistry,75.0
+study urine,Chemistry,75.0
+utx1,Chemistry,75.0
+"prot. electrophoresis, urine",Chemistry,75.0
+neisseria gonorrhoeae,Chemistry,75.0
+"amphetamine screen, urine",Chemistry,75.0
+"amylase, urine",Chemistry,75.0
+"immunofixation, urine",Chemistry,75.0
+nitrite,Chemistry,75.0
+utx3,Chemistry,75.0
+24 hr calcium,Chemistry,5.75
+17-hydroxycorticosteroids,Chemistry,75.0
+oxycodone,Chemistry,75.0
+"zinc, urine",Chemistry,75.0
+specific gravity,Chemistry,75.0
+"albumin, urine",Chemistry,75.0
+"propoxyphene, urine",Chemistry,75.0
+"total protein, urine",Chemistry,75.0
+vanillylmandelic acid,Chemistry,75.0
+"glucose, urine",Chemistry,75.0
+marijuana,Chemistry,75.0
+bilirubin,Chemistry,75.0
+ketone,Chemistry,75.0
+upepgel,Chemistry,75.0
+"ethanol, urine",Chemistry,75.0
+"urea nitrogen, urine",Chemistry,75.0
+aldolase,Chemistry,75.0
+chlamydia trachomatis,Chemistry,75.0
+"copper, urine",Chemistry,75.0
+utx5,Chemistry,75.0
+pan1,Chemistry,75.0
+"phosphate, urine",Chemistry,75.0
+utx4,Chemistry,75.0
+urine amylase,Chemistry,8.8
+creatinine clearance,Chemistry,75.0
+camp,Chemistry,75.0
+"methadone, urine",Chemistry,75.0
+24 hr protein,Chemistry,75.0
+utx6,Chemistry,75.0
+utx9,Chemistry,75.0
+porphobilinogen screen,Chemistry,75.0
+"5-hiaa, urine",Chemistry,75.0
+24 hr creatinine,Chemistry,6.5
+length of urine collection,Chemistry,75.0
+urine creatinine,Chemistry,75.0
+"uric acid, urine",Chemistry,75.0
+ccoc,Chemistry,75.0
+"hcg, urine, qualitative",Chemistry,75.0
+utx10,Chemistry,75.0
+fentanyl,Chemistry,75.0
+trichomonas vaginalis,Chemistry,75.0
+"chloride, urine",Chemistry,75.0
+uhold,Chemistry,75.0
+dirlist,Chemistry,75.0
+"bicarbonate, urine",Chemistry,75.0
+"magnesium, urine",Chemistry,75.0
+"opiate screen, urine",Chemistry,75.0
+"barbiturate screen, urine",Chemistry,75.0
+"amylase, serum",Chemistry,75.0
+copi,Chemistry,75.0
+urobilinogen,Chemistry,4.0
+total collection time,Chemistry,75.0
+"immunoelectrophoresis, urine",Chemistry,75.0
+protein/creatinine ratio,Chemistry,5.0
+"urine volume, total",Chemistry,75.0
+"catecholamines, urine",Chemistry,75.0
+"creatinine, blood",Chemistry,75.0
+uifegel,Chemistry,75.0
+cben,Chemistry,75.0
+"urine tube, held",Chemistry,75.0
+"17-ketosteroids, urine",Chemistry,75.0
+utx2,Chemistry,75.0
+"benzodiazepine screen, urine",Chemistry,75.0
+protein,Chemistry,75.0
+amylase/creatinine clearance,Chemistry,75.0
+leukocytes,Chemistry,75.0
+"estriol, urine",Chemistry,75.0
+"phenothiazine screen, urine",Chemistry,75.0
+urine  creatinine,Chemistry,75.0
+uroporphyrins,Chemistry,75.0
+urine volume,Chemistry,75.0
+utx8,Chemistry,75.0
+"creatinine, urine",Chemistry,75.0
+utx7,Chemistry,75.0
+"calcium, urine",Chemistry,75.0
+coproporphyrins,Chemistry,75.0
+"urine pep, gamma region",Chemistry,75.0
+"chloride, ascites",Chemistry,75.0
+"osmolality, ascites",Chemistry,75.0
+"bilirubin, total, ascites",Chemistry,75.0
+"immunoelectrophoresis, ascites",Chemistry,75.0
+"miscellaneous, ascites",Chemistry,75.0
+"lipase, ascites",Chemistry,75.0
+"potassium, ascites",Chemistry,75.0
+"bicarbonate, ascites",Chemistry,75.0
+"urea nitrogen, ascites",Chemistry,75.0
+"uric acid, ascites",Chemistry,75.0
+"creatinine, ascites",Chemistry,75.0
+"cholesterol, ascites",Chemistry,75.0
+"albumin, ascites",Chemistry,75.0
+"sodium, ascites",Chemistry,75.0
+"total protein, ascites",Chemistry,5.0
+"immunoglobulin g, ascites",Chemistry,75.0
+"amylase, ascites",Chemistry,75.0
+"triglycerides, ascites",Chemistry,75.0
+"lactate dehydrogenase, ascites",Chemistry,75.0
+"pep, ascites, gamma region",Chemistry,75.0
+"glucose, ascites",Chemistry,75.0
+"creatinine, pleural",Chemistry,75.0
+"albumin, pleural",Chemistry,75.0
+"bicarbonate, pleural",Chemistry,75.0
+"amylase, pleural",Chemistry,75.0
+"cholesterol, pleural",Chemistry,75.0
+"lipase, pleural",Chemistry,75.0
+"miscellaneous, pleural",Chemistry,75.0
+"pep, pleural, gamma region",Chemistry,75.0
+"immunoglobulin g, pleural",Chemistry,75.0
+"triglycerides, pleural",Chemistry,75.0
+"chloride, pleural",Chemistry,75.0
+"osmolality, pleural",Chemistry,75.0
+"sodium, pleural",Chemistry,75.0
+"probnp, pleural",Chemistry,75.0
+"uric acid, pleural",Chemistry,75.0
+"bilirubin, total, pleural",Chemistry,75.0
+"total protein, pleural",Chemistry,75.0
+"lactate dehydrogenase, pleural",Chemistry,75.0
+"immunoelectrophoresis, pleural",Chemistry,75.0
+"potassium, pleural",Chemistry,75.0
+"glucose, pleural",Chemistry,75.0
+"urea nitrogen, pleural",Chemistry,75.0
+"bilirubin, total, joint fluid",Chemistry,75.0
+"triglycerides, joint fluid",Chemistry,75.0
+"cholesterol, joint fluid",Chemistry,75.0
+"ld, joint fluid",Chemistry,75.0
+"urea nitrogen, joint fluid",Chemistry,75.0
+"albumin, joint fluid",Chemistry,75.0
+"amylase, joint fluid",Chemistry,75.0
+"total protein, joint fluid",Chemistry,75.0
+"uric acid, joint fluid",Chemistry,75.0
+"sodium, joint fluid",Chemistry,75.0
+"igg, joint fluid",Chemistry,75.0
+"glucose, joint fluid",Chemistry,75.0
+"potassium, joint fluid",Chemistry,75.0
+"immunoelectrophoresis, joint fluid",Chemistry,75.0
+"pep, joint fluid, gamma region",Chemistry,75.0
+"chloride, joint fluid",Chemistry,75.0
+"osmolality, joint fluid",Chemistry,75.0
+"creatinine, joint fluid",Chemistry,75.0
+"bicarbonate,joint fluid",Chemistry,75.0
+"immunoelectrophoresis, fluid",Chemistry,75.0
+"influenza a, rapid antigen",Chemistry,75.0
+"strep a, rapid antigen",Chemistry,75.0
+"albumin, body fluid",Chemistry,75.0
+influenza a by pcr,Chemistry,75.0
+"blood, occult",Chemistry,75.0
+"l/s ratio, amniotic fluid",Chemistry,75.0
+mrsa pcr,Chemistry,75.0
+staph aureus pcr,Chemistry,75.0
+"lipase, body fluid",Chemistry,75.0
+rsv2,Chemistry,75.0
+"bicarbonate, other fluid",Chemistry,75.0
+fetalfn,Chemistry,75.0
+"magnesium, body fluid",Chemistry,75.0
+rsv1,Chemistry,75.0
+anat path hold,Chemistry,75.0
+cov12,Chemistry,75.0
+flub2,Chemistry,75.0
+"immunoglobulin g, body fluid",Chemistry,75.0
+phosphatidylglycerol,Chemistry,75.0
+"miscellaneous, body fluid",Chemistry,75.0
+cov11,Chemistry,75.0
+flua1,Chemistry,75.0
+rapid respiratory syncytial virus,Chemistry,75.0
+"calcium, body fluid",Chemistry,75.0
+"amylase, body fluid",Chemistry,75.0
+"bilirubin, total, body fluid",Chemistry,75.0
+"phosphate, body fluid",Chemistry,6.75
+e gene endpt,Chemistry,75.0
+"ld, body fluid",Chemistry,75.0
+"afp, amniotic fluid",Chemistry,75.0
+"pep, body fluid",Chemistry,75.0
+e gene ct,Chemistry,75.0
+"urea nitrogen, body fluid",Chemistry,75.0
+acid mao,Chemistry,75.0
+influenza b by pcr,Chemistry,75.0
+"cholesterol, body fluid",Chemistry,75.0
+bun,Chemistry,75.0
+epr,Chemistry,75.0
+surfactant/albumin,Chemistry,75.0
+reuse1,Chemistry,75.0
+"influenza b, rapid antigen",Chemistry,75.0
+,Chemistry,75.0
+triglycer,Chemistry,75.0
+flub1,Chemistry,75.0
+n2 gene endpt,Chemistry,75.0
+(albumi,Chemistry,75.0
+"chloride, body fluid",Chemistry,75.0
+"dspc, amniotic fluid",Chemistry,75.0
+flua2,Chemistry,75.0
+"potassium, body fluid",Chemistry,75.0
+vpf,Chemistry,75.0
+reuse,Chemistry,75.0
+"creatinine, body fluid",Chemistry,75.0
+surf/alb,Chemistry,75.0
+"afp, body fluid",Chemistry,75.0
+"osmolality, body fluid",Chemistry,75.0
+"pep, body fluid, gamma region",Chemistry,75.0
+"uric acid, body fluid",Chemistry,75.0
+cov13,Chemistry,75.0
+n2 gene ct,Chemistry,75.0
+cov10,Chemistry,75.0
+"total protein, body fluid",Chemistry,75.0
+"glucose, body fluid",Chemistry,6.0
+<albumin>,Chemistry,75.0
+acid bao,Chemistry,75.0
+"pep, csf, gamma region",Chemistry,75.0
+"cholesterol, csf",Chemistry,75.0
+"potassium, csf",Chemistry,75.0
+"lactate dehydrogenase, csf",Chemistry,75.0
+"glucose, csf",Chemistry,6.0
+"immunoglobulin g, csf",Chemistry,75.0
+"miscellaneous, csf",Chemistry,75.0
+"creatinine, csf",Chemistry,75.0
+"total protein, csf",Chemistry,75.0
+"immunoelectrophoresis, csf",Chemistry,75.0
+"amylase, csf",Chemistry,75.0
+"bicarbonate, csf",Chemistry,75.0
+"uric acid, csf",Chemistry,75.0
+"bilirubin, total, csf",Chemistry,75.0
+"albumin, csf",Chemistry,75.0
+"sodium, csf",Chemistry,75.0
+"pep, csf",Chemistry,75.0
+"osmolality, csf",Chemistry,75.0
+"chloride, csf",Chemistry,75.0
+"triglycerides, csf",Chemistry,75.0
+"urea nitrogen, csf",Chemistry,75.0
+dna,Hematology,100.0
+fl2-%fl1,Hematology,100.0
+fl2-d,Hematology,100.0
+ssc-d,Hematology,100.0
+fl1-s,Hematology,100.0
+ssc-s,Hematology,100.0
+fl1-%fl2,Hematology,100.0
+fsc-s,Hematology,100.0
+fl1-d,Hematology,100.0
+fl2-s,Hematology,100.0
+anticardiolipin antibody igg,Hematology,100.0
+cd16/56%,Hematology,100.0
+epinepherine,Hematology,100.0
+"heparin, lmw",Hematology,100.0
+monocytes,Hematology,4.0
+other cells,Hematology,100.0
+mono spot test,Hematology,100.0
+qfib,Hematology,100.0
+retscat,Hematology,100.0
+factor xii,Hematology,100.0
+cd11c,Hematology,100.0
+poikilocytosis,Hematology,100.0
+"protein s, functional",Hematology,100.0
+reptilase time,Hematology,100.0
+cd56 %,Hematology,100.0
+histiocytes,Hematology,100.0
+kct,Hematology,100.0
+p2y12 reaction units,Hematology,100.0
+"reticulocyte count, manual",Hematology,7.5
+cd57,Hematology,100.0
+factor vii,Hematology,100.0
+microcytes,Hematology,100.0
+red blood cells,Hematology,100.0
+sickle cells,Hematology,100.0
+autohem+g,Hematology,100.0
+test,Hematology,100.0
+cd2,Hematology,100.0
+clot lysis,Hematology,100.0
+factor ix inhibitor,Hematology,100.0
+thrombin time control,Hematology,100.0
+rbcdist,Hematology,100.0
+cd55,Hematology,100.0
+hla-dr,Hematology,100.0
+hypochromia,Hematology,100.0
+immature granulocytes,Hematology,100.0
+stomatocyte,Hematology,100.0
+hemoglobin c,Hematology,100.0
+quantitative g6pd,Hematology,100.0
+aspirin reactivity,Hematology,100.0
+chloroacetate,Hematology,100.0
+naphtol acetate stain,Hematology,100.0
+pt control,Hematology,100.0
+"cd4 cells, percent",Hematology,100.0
+acidserum,Hematology,100.0
+crenated cells,Hematology,100.0
+cross imm,Hematology,100.0
+neutx,Hematology,100.0
+peroxidase staining,Hematology,100.0
+platelet aggregation,Hematology,100.0
+adp,Hematology,100.0
+cd103,Hematology,100.0
+polychromasia,Hematology,100.0
+rbcagg,Hematology,100.0
+basoflg,Hematology,100.0
+atypical lymphocytes,Hematology,4.0
+bite cells,Hematology,100.0
+cd5,Hematology,100.0
+eosinophil count,Hematology,100.0
+red blood cell enzyme,Hematology,100.0
+atlflg,Hematology,100.0
+cd117,Hematology,100.0
+fibrinoge,Hematology,100.0
+sudan black staining,Hematology,100.0
+arachadonic acid,Hematology,100.0
+cd33,Hematology,100.0
+cd34,Hematology,100.0
+glyco a,Hematology,100.0
+other inhibitor,Hematology,100.0
+"reptilase time, control",Hematology,100.0
+blood parasite smear,Hematology,100.0
+cd20 %,Hematology,100.0
+hemogloblin s,Hematology,100.0
+"protein s, antigen",Hematology,100.0
+sickle cell preparation,Hematology,100.0
+absolute cd56 count,Hematology,100.0
+autohem-g,Hematology,100.0
+wbcscat,Hematology,100.0
+cd5 absolute count,Hematology,100.0
+cd56,Hematology,100.0
+"lymphocytes, percent",Hematology,100.0
+cd62,Hematology,100.0
+fitzgerld,Hematology,100.0
+prekallekrein,Hematology,100.0
+sct - normalized ratio,Hematology,100.0
+thrombin time,Hematology,100.0
+pt,Hematology,100.0
+heinz aph,Hematology,100.0
+tissue thromboplastin inhibitor,Hematology,100.0
+absolute cd8 count,Hematology,100.0
+antithrombin,Hematology,100.0
+apt test,Hematology,100.0
+fetal hemoglobin,Hematology,100.0
+"fibrinogen, functional",Hematology,100.0
+inhibitor screen,Hematology,100.0
+cd56 absolute count,Hematology,100.0
+le prep,Hematology,100.0
+leftshf,Hematology,100.0
+"protein c, antigen",Hematology,100.0
+cd52,Hematology,100.0
+echinocytes,Hematology,100.0
+factor ii,Hematology,100.0
+immunophenotyping,Hematology,100.0
+myelocytes,Hematology,100.0
+bleed tm,Hematology,100.0
+hemoglobin other,Hematology,100.0
+pltdist,Hematology,100.0
+retflg,Hematology,100.0
+factor x,Hematology,100.0
+hemogloblin a,Hematology,100.0
+drvvt - confirmation,Hematology,100.0
+inhibitor,Hematology,100.0
+bleeding time,Hematology,7.5
+basophils,Hematology,4.0
+cd41,Hematology,100.0
+ovalocytes,Hematology,100.0
+anticardiolipin antibody igm,Hematology,100.0
+protein s,Hematology,100.0
+rdw-sd,Hematology,100.0
+trap stain,Hematology,100.0
+large platelets,Hematology,5.5
+mchc,Hematology,100.0
+osmotic fragility,Hematology,100.0
+reptilase time control,Hematology,100.0
+24 hr,Hematology,100.0
+wbcp,Hematology,100.0
+cd3 %,Hematology,100.0
+"cd3 cells, percent",Hematology,100.0
+promyelocytes,Hematology,100.0
+pyruvate kinase,Hematology,100.0
+acanthocytes,Hematology,100.0
+fmc-7,Hematology,100.0
+platelet clumps,Hematology,100.0
+"reticulocyte count, automated",Hematology,100.0
+"osmotic fragility, incubated",Hematology,100.0
+thrombin,Hematology,100.0
+cd16/56 absolute count,Hematology,100.0
+cd4/cd8 ratio,Hematology,100.0
+factor ix,Hematology,100.0
+monocyte count,Hematology,100.0
+absolute cd20 count,Hematology,100.0
+asd,Hematology,100.0
+pltscat,Hematology,100.0
+cd14,Hematology,100.0
+cd20,Hematology,100.0
+tdt,Hematology,100.0
+asd & na-f,Hematology,100.0
+drvvt - normalized ratio,Hematology,100.0
+non-specific esterase,Hematology,100.0
+rbc morphology,Hematology,100.0
+cd19,Hematology,100.0
+cd20 absolute count,Hematology,100.0
+howell-jolly bodies,Hematology,100.0
+red blood cell fragments,Hematology,100.0
+von willebrand factor antigen,Hematology,100.0
+cd61,Hematology,100.0
+g6pd spec,Hematology,100.0
+tcr gamma-delta,Hematology,100.0
+monoflg,Hematology,100.0
+nrbcflg,Hematology,100.0
+fibrin degradation products,Hematology,14.0
+cd138,Hematology,100.0
+cd22,Hematology,100.0
+cd38,Hematology,100.0
+elliptocytes,Hematology,100.0
+factor xiii,Hematology,100.0
+pt mean,Hematology,100.0
+fragflg,Hematology,100.0
+ig flg,Hematology,100.0
+alpha antiplasmin,Hematology,100.0
+basophilic stippling,Hematology,100.0
+collagen,Hematology,100.0
+cd15/56,Hematology,100.0
+rouleaux,Hematology,100.0
+pltclmp,Hematology,100.0
+cd45,Hematology,100.0
+leukocyte alkaline phosphatase,Hematology,7.2
+cr,Hematology,100.0
+drvvt - screen,Hematology,100.0
+hemoglobin h inclusion,Hematology,100.0
+malaria smear,Hematology,100.0
+periodic acid schiff stain,Hematology,100.0
+cd5 %,Hematology,100.0
+envelope cells,Hematology,100.0
+tcr alpha-beta,Hematology,100.0
+viii ag,Hematology,100.0
+lupus anticoagulant,Hematology,100.0
+metamyelocytes,Hematology,100.0
+"reticulocyte, cellular hemoglobin",Hematology,100.0
+clot retraction,Hematology,100.0
+hit-ab numerical result,Hematology,100.0
+sct - confirmation,Hematology,100.0
+absolute cd4 count,Hematology,100.0
+pencil cells,Hematology,100.0
+cd 1a,Hematology,100.0
+cd30,Hematology,100.0
+turbhbi,Hematology,100.0
+factor v,Hematology,100.0
+factor viii inhibitor,Hematology,100.0
+hemoglobin a2,Hematology,100.0
+rdw,Hematology,100.0
+schistocytes,Hematology,100.0
+spherocytes,Hematology,100.0
+von willebrand factor activity,Hematology,100.0
+glutathione,Hematology,100.0
+plasma hemoglobin,Hematology,100.0
+tr- acid,Hematology,100.0
+abnlymp,Hematology,100.0
+factor viii,Hematology,100.0
+absolute cd3 count,Hematology,100.0
+"protein c, functional",Hematology,100.0
+young cells,Hematology,100.0
+absolute basophil count,Hematology,100.0
+fsp,Hematology,100.0
+neuty,Hematology,100.0
+rbc,Hematology,100.0
+wam manual diff,Hematology,100.0
+factor xi,Hematology,100.0
+cd13,Hematology,100.0
+cd3 absolute count,Hematology,100.0
+circ ab,Hematology,100.0
+donath-l,Hematology,100.0
+euglobulin lysis,Hematology,100.0
+blasflg,Hematology,100.0
+nucleated red cells,Hematology,100.0
+wbc count,Hematology,100.0
+absolute neutrophil count,Hematology,100.0
+direct antiplatelet antibodies,Hematology,100.0
+"g6pd, qualitative",Hematology,100.0
+hit-ab interpreted result,Hematology,100.0
+sct - screen,Hematology,100.0
+anisocytosis,Hematology,100.0
+cd10,Hematology,100.0
+eosinophils,Hematology,4.0
+platelet smear,Hematology,100.0
+absolute eosinophil count,Hematology,100.0
+ls,Hematology,100.0
+inpatient hematology/oncology smear,Hematology,100.0
+target cells,Hematology,100.0
+teardrop cells,Hematology,100.0
+ristocetin response,Hematology,100.0
+wam manual diff 2,Hematology,100.0
+erytflg,Hematology,100.0
+bands,Hematology,100.0
+granulocyte count,Hematology,100.0
+hypersegmented neutrophils,Hematology,4.0
+kappa,Hematology,100.0
+lambda,Hematology,100.0
+neutrophils,Hematology,100.0
+cryoglob,Hematology,100.0
+dsmear,Hematology,100.0
+inh scr,Hematology,100.0
+sta-clot,Hematology,100.0
+cd19 absolute count,Hematology,100.0
+cd64,Hematology,100.0
+hemoglobin f,Hematology,100.0
+ristocetin,Hematology,100.0
+sedimentation rate,Hematology,5.5
+cd23,Hematology,100.0
+cd59,Hematology,100.0
+macroovalocytes,Hematology,100.0
+hmwk,Hematology,100.0
+plasminogen,Hematology,100.0
+cd19 %,Hematology,100.0
+sugar water test,Hematology,100.0
+antithrombin iii,Hematology,100.0
+ptt control,Hematology,100.0
+ptt-la,Hematology,100.0
+heinz body prep,Hematology,100.0
+luc,Hematology,100.0
+plasma cells,Hematology,100.0
+ptt,Hematology,100.0
+helmet cells,Hematology,100.0
+sulf hgb,Hematology,100.0
+h/o smear,Hematology,100.0
+pappenheimer bodies,Hematology,100.0
+ptt mea,Hematology,100.0
+absolute cd19 count,Hematology,100.0
+factor viii antigen,Hematology,100.0
+"fibrinogen, immunologic",Hematology,100.0
+eosflg,Hematology,100.0
+bl/ably,Hematology,100.0
+cd16,Hematology,100.0
+heparin,Hematology,100.0
+cd42,Hematology,100.0
+nfletcher,Hematology,100.0
+nrbc,Hematology,100.0
+lymflg,Hematology,100.0
+cd15,Hematology,100.0
+cd71,Hematology,100.0
+fragmented cells,Hematology,100.0
+asa tol,Hematology,100.0
+methemalb,Hematology,100.0
+viii-cie,Hematology,100.0
+blasts,Hematology,100.0
+cd7,Hematology,100.0
+mch,Hematology,100.0
+"reticulocyte count, absolute",Hematology,100.0
+serum viscosity,Hematology,100.0
+absolute monocyte count,Hematology,100.0
+clot time,Hematology,100.0
+mean platelet volume,Hematology,3.5
+cd25,Hematology,100.0
+"cd8 cells, percent",Hematology,100.0
+macrocytes,Hematology,100.0
+acid phosphatase stain,Hematology,100.0
+fletcher,Hematology,100.0
+ig,Hematology,100.0
+bile,Hematology,100.0
+prblm,Hematology,100.0
+wbc,Hematology,100.0
+fat,Hematology,100.0
+epithelial cells,Hematology,100.0
+xucu,Hematology,100.0
+skip,Hematology,100.0
+granular casts,Hematology,100.0
+trichomonas,Hematology,100.0
+rfxucu,Hematology,100.0
+bacturia,Hematology,100.0
+broad casts,Hematology,100.0
+free fat,Hematology,100.0
+hyphenated yeast,Hematology,100.0
+transitional epithelial cells,Hematology,100.0
+triple phosphate crystals,Hematology,100.0
+urine fat bodies,Hematology,100.0
+amorphous crystals,Hematology,100.0
+bilirubin crystals,Hematology,100.0
+cysteine crystals,Hematology,100.0
+urine comments,Hematology,100.0
+ammonium biurate,Hematology,100.0
+leucine crystals,Hematology,100.0
+"reducing substances, urine",Hematology,100.0
+ucu1,Hematology,100.0
+"urine crystals, other",Hematology,100.0
+calcium carbonate crystals,Hematology,100.0
+bacteria,Hematology,100.0
+tyrosine crystals,Hematology,100.0
+run,Hematology,100.0
+sperm,Hematology,100.0
+hgb,Hematology,100.0
+cholesterol crystals,Hematology,6.0
+hemosiderin,Hematology,100.0
+urine mucous,Hematology,100.0
+hpf,Hematology,100.0
+leuks,Hematology,100.0
+urine color,Hematology,100.0
+hyaline casts,Hematology,100.0
+nonsquamous epithelial cell,Hematology,100.0
+fatty casts,Hematology,100.0
+budding yeast,Hematology,100.0
+non-squamous epithelial cells,Hematology,100.0
+ucu2,Hematology,100.0
+sulfonamides,Hematology,100.0
+oval fat body,Hematology,100.0
+epithelial casts,Hematology,100.0
+rbc clumps,Hematology,100.0
+renal epithelial cells,Hematology,100.0
+wbc casts,Hematology,100.0
+calcium oxalate crystals,Hematology,100.0
+uric acid crystals,Hematology,6.0
+yeast,Hematology,100.0
+calcium phosphate crystals,Hematology,7.2
+urine appearance,Hematology,100.0
+zzdummy,Hematology,100.0
+gate,Hematology,100.0
+cellular cast,Hematology,100.0
+rbc casts,Hematology,100.0
+lpf,Hematology,100.0
+urine specimen type,Hematology,100.0
+waxy casts,Hematology,100.0
+"urine casts, other",Hematology,100.0
+wbc clumps,Hematology,100.0
+pku,Hematology,100.0
+"rbc, ascites",Hematology,100.0
+histiocyte,Hematology,100.0
+polys#,Hematology,100.0
+other,Hematology,100.0
+macrophage,Hematology,100.0
+young#,Hematology,100.0
+polys,Hematology,100.0
+plasma#,Hematology,100.0
+mesothelial cell,Hematology,100.0
+"total nucleated cells, ascites",Hematology,100.0
+promyelo#,Hematology,100.0
+eos#,Hematology,100.0
+blasts#,Hematology,100.0
+monos#,Hematology,100.0
+"hematocrit, ascites",Hematology,100.0
+hyperseg,Hematology,100.0
+nuc rbcs#,Hematology,100.0
+histio#,Hematology,100.0
+myelos#,Hematology,100.0
+atyps#,Hematology,100.0
+basos#,Hematology,100.0
+lymphs#,Hematology,100.0
+metas#,Hematology,100.0
+hyperseg#,Hematology,100.0
+nucleated rbc,Hematology,100.0
+young,Hematology,100.0
+plasma,Hematology,100.0
+bands#,Hematology,100.0
+mesothelial cells,Hematology,100.0
+"rbc, pleural",Hematology,100.0
+monos,Hematology,100.0
+"hematocrit, pleural",Hematology,100.0
+promyelocytes#,Hematology,100.0
+hypersegmented  neutrophils#,Hematology,100.0
+"total nucleated cells, pleural",Hematology,100.0
+macrophages,Hematology,100.0
+histiocyte#,Hematology,100.0
+asd&na-f,Hematology,100.0
+chloroacetate esterase,Hematology,100.0
+iron stain,Hematology,9.0
+periodic schiff stain,Hematology,100.0
+naphthol acetate stain,Hematology,100.0
+tr-acid,Hematology,100.0
+cd16/56,Hematology,100.0
+cd4,Hematology,100.0
+cd8,Hematology,100.0
+wright giemsa,Hematology,100.0
+sudan black stain,Hematology,100.0
+cd3,Hematology,100.0
+peroxidase stain,Hematology,100.0
+naphthol butryrate,Hematology,100.0
+hypersegmented neutrophils #,Hematology,100.0
+"joint crystals, location",Hematology,100.0
+"hematocrit, joint fluid",Hematology,100.0
+"joint crystals, birefringence",Hematology,100.0
+"rbc, joint fluid",Hematology,100.0
+"total nucleated cells, joint",Hematology,100.0
+"joint crystals, comment",Hematology,100.0
+lining cell,Hematology,100.0
+"joint crystals, shape",Hematology,100.0
+"joint crystals, number",Hematology,100.0
+chloroac,Hematology,100.0
+hypersegmented neutrophils#,Hematology,100.0
+metamyelocytes#,Hematology,100.0
+nrbc#,Hematology,100.0
+"hematocrit, other fluid",Hematology,100.0
+other cell,Hematology,100.0
+fetal hgb,Hematology,100.0
+promyelocyte#,Hematology,100.0
+"rbc, other fluid",Hematology,100.0
+"total nucleated cells, other",Hematology,100.0
+fetal lung maturity - lbc,Hematology,100.0
+mesothelial cells #,Hematology,100.0
+"hematocrit, csf",Hematology,100.0
+"rbc, csf",Hematology,100.0
+macrophage#,Hematology,100.0
+"total nucleated cells, csf",Hematology,100.0
+lymphs,Hematology,100.0

@@ -1,0 +1,55 @@
+version: '3.8'
+services:
+  config-server:
+    container_name: config-server
+    hostname: config-server
+    image: mongo:5.0
+    command: ["mongod", "--configsvr", "--replSet", "csReplSet", "--port", "27019", "--bind_ip_all"]
+    ports:
+      - "27019:27019"
+    volumes:
+      - ./data/config-server:/data/db
+    networks:
+      - mongo-net
+
+  shard1:
+    container_name: shard1
+    hostname: shard1
+    image: mongo:5.0
+    command: ["mongod", "--shardsvr", "--replSet", "shard1ReplSet", "--bind_ip_all"]
+    ports:
+      - "27018:27017"
+    volumes:
+      - ./data/shard1:/data/db
+    networks:
+      - mongo-net
+
+  shard2:
+    container_name: shard1
+    hostname: shard1
+    image: mongo:5.0
+    command: ["mongod", "--shardsvr", "--replSet", "shard2ReplSet", "--bind_ip_all"]
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./data/shard1:/data/db
+    networks:
+      - mongo-net
+
+  mongos:
+    container_name: mongos
+    hostname: mongos
+    image: mongo:5.0
+    command: [
+      "mongos",
+      "--configdb", "csReplSet/config-server:27019",
+      "--bind_ip_all"
+    ]
+    ports:
+      - "27020:27017"
+    networks:
+      - mongo-net
+
+networks:
+  mongo-net:
+    driver: bridge
