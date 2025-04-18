@@ -55,7 +55,7 @@ dim_patient = patients_admissions_joined.select(
 
 admissions_joined = admissions_df.alias("adm").join(drgcodes_df.alias("drg"), ["hadm_id"], "left")
 dim_admission = admissions_joined.select(
-    F.col("adm.hadm_id").alias("icu_unit_name"),
+    F.col("adm.hadm_id").alias("admission_id"),
     F.col("adm.admission_type"),
     F.col("adm.admission_location").alias("admission_source"),
     F.col("adm.discharge_location").alias("discharge_disposition"),
