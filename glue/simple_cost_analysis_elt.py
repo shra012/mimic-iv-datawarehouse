@@ -35,11 +35,16 @@ admissions_df = spark.read.format("csv").option("header", "true").load(f"{s3_hos
 patients_df = spark.read.format("csv").option("header", "true").load(f"{s3_hosp}/patients.csv")
 drgcodes_df = spark.read.format("csv").option("header", "true").load(f"{s3_hosp}/drgcodes.csv")
 prescriptions_df = spark.read.format("csv").option("header", "true").load(f"{s3_hosp}/prescriptions.csv")
+lab_events_df = spark.read.format("csv").option("header", "true").load(f"{s3_hosp}/labevents.csv")
+lab_items_df = spark.read.format("csv").option("header", "true").load(f"{s3_hosp}/d_labitems.csv")
 icustays_df = spark.read.format("csv").option("header", "true").load(f"{s3_icu}/icustays.csv")
 medical_cost_df = spark.read.format("csv").option("header", "true").load(f"{s3_base}/cost/final_drug_mapping.csv")
+lab_item_cost_df = spark.read.format("csv").option("header", "true").load(f"{s3_base}/cost/lab_tests_mapping.csv")
 
 medical_cost_df = medical_cost_df.withColumn("drug", lower(trim(col("drug"))))
 prescriptions_df = prescriptions_df.withColumn("drug", lower(trim(col("drug"))))
+
+lab_items_df = lab_items_df.withColumn("label", lower(trim(col("label"))))
 
 
 extract_icu_type_udf = udf(extract_icu_type, StringType())
@@ -81,20 +86,19 @@ fact_icustay = admission_icustays.select(
     F.col("icu.los").alias("total_icu_days"),
     F.col("adm.hospital_expire_flag").alias("survived"),
 )
-# lab_costs = labevents_df.groupBy("hadm_id").agg(F.sum(F.col("lab_cost").cast("double")).alias("lab_tests_cost"))
+medical_joined = medical_cost_df.alias("med").join(prescriptions_df.alias("pre"), ["drug"], "inner")
+lab_events_joined = lab_events_df.alias("event").join(lab_items_df.alias("item"), ["itemid"], "inner").join(lab_item_cost_df.alias("item_costs"), ["label"], "inner")
+lab_costs = lab_events_joined.groupBy("hadm_id").agg(F.sum(F.col("price").cast("double")).alias("lab_tests_cost"))
 medical_joined = medical_cost_df.alias("med").join(prescriptions_df.alias("pre"), ["drug"], "inner")
 medicine_costs = medical_joined.groupBy("hadm_id").agg(F.sum(F.col("cost").cast("double")).alias("medicine_cost"))
 
-# fact_icustay_enhanced = (fact_icustay.join(lab_costs, fact_icustay.admission_id == lab_costs.hadm_id, "left")
-#                          .join(medicine_costs, fact_icustay.admission_id == medicine_costs.hadm_id, "left")
-#                          .drop(lab_costs.hadm_id).drop(medicine_costs.hadm_id)
-#                          .withColumn("lab_tests_cost", F.coalesce(F.col("lab_tests_cost"), F.lit(0)))
-#                          .withColumn("medicine_cost", F.coalesce(F.col("medicine_cost"), F.lit(0)))
-#                          .withColumn("total_cost", F.col("lab_tests_cost") + F.col("medicine_cost")))
 fact_icustay_enhanced = (fact_icustay.join(medicine_costs, fact_icustay.admission_id == medicine_costs.hadm_id, "left")
+                         .join(lab_costs, fact_icustay.admission_id == lab_costs.hadm_id, "left")
+                         .drop(lab_costs.hadm_id)
                          .drop(medicine_costs.hadm_id)
+                         .withColumn("lab_tests_cost", F.coalesce(F.col("lab_tests_cost"), F.lit(0)))
                          .withColumn("medicine_cost", F.coalesce(F.col("medicine_cost"), F.lit(0)))
-                         .withColumn("total_cost", F.col("medicine_cost")))
+                         .withColumn("total_cost", F.col("lab_tests_cost") + F.col("medicine_cost")))
 
 
 dates_admit_df = fact_icustay.select(to_date(F.col("icu_admit_date")).alias("calendar_date")).distinct()
@@ -106,7 +110,6 @@ dim_date_df = (all_dates_df.withColumn("date_id", date_format(F.col("calendar_da
                .withColumn("month", date_format(F.col("calendar_date"), "MM"))
                .withColumn("day_of_week", date_format(F.col("calendar_date"), "EEEE"))
                .filter(F.col("date_id").isNotNull()))
-
 
 s3_out = f"{s3_base}/glue/parquet"
 dim_patient.write.mode("overwrite").parquet(f"{s3_out}/dim_patient/")
